@@ -1,0 +1,28 @@
+---
+layout: default
+title: Metamorphium
+---
+
+</div>
+
+<div id="header">
+	<div id="headerimg">
+		<img src="/images/header.jpg" />
+<!--
+		<div id="refresh"><a href="#" id="button"><span class="icon">V</span> &nbsp;Swap Picture</a></div>
+-->
+	</div>
+</div>
+
+<div class="site">
+
+<div id="home">
+  <h1>Top Blog Posts</h1>
+  <ul class="posts">
+    {% for post in site.tags.home %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+  
+  <a href="/all/">See all posts &nbsp;<span class="icon">]</span></a>
+</div>
