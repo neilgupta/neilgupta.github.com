@@ -19,13 +19,15 @@ Today, Wordpress just feels like overkill, and I can't think of a single senario
 
 **Tumblr**
 
-After my Wordpress installation got violated, I decided to give [Tumblr](http://tumblr.com) a try. It was easy to get a blog up and running within a few minutes. The themes were beautiful and the community features were quite appealing. Unfortunately, this was back when they were having erratic downtimes, and within a couple hours of setting everything up, I lost access and quickly got frustrated.
+After my Wordpress installation got violated, I decided to give [Tumblr](http://tumblr.com) a try. It was easy to get a blog up and running within a few minutes. The themes were beautiful and the community features were quite appealing. Unfortunately, this was back when they were having frequent downtimes, and soon after setting everything up, I lost access and quickly got frustrated.
 
 Now that they seem to have solved their downtime problems, I would recommend Tumblr to any non-programmer looking to start a blog. It offers the best balance of features and ease-of-use, and it's aesthetically appealing. The community sharing and follow features make it easy to build up a readership. It's essentially the Twitter for blogs.
 
 **Posterous**
 
 Put off by Tumblr's unrelability, I ended up switching to [Posterous](http://posterous.com) for a while. When I switched, Posterous was basically a simplified Tumblr. Their most attractive feature was that I could just email my posts in from anywhere, formatted with Markdown. It didn't have any obvious problems, so I thought I had finally found my ideal blogging platform. However, over time, I began to realize just how much I hated its control panel interface. It was slow, poorly organized, and required way too many clicks for common tasts. Posterous would also regularly garble my Markdown formatting, forcing me to log into the control panel and manually edit the posts. I just ended up blogging less and less.
+
+Now, Posterous looks far more complicated than it needs to be, and I'm not even sure I understand the point of Posterous Spaces, their new group blogging focus. It used to be that you could just email post@posterous.com, and they would email you back with a link to your new blog that automatically got set up. Any future emails from that same email address would get posted to the same blog. That's as simple as it gets. As far as I can tell, that setup process seems to be gone, or is at least completely hidden, which is a shame.
 
 **Jekyll**
 
@@ -37,7 +39,7 @@ Jekyll is like a Tesla Roadster. It's insanely fast and cool, but it does requir
 
 **My Recommendations**
 
-To recap, if you're not a hacker, I'd recommend Tumblr. It offers the best balance of features and ease of use, and they seem to have solved their downtime problems. If for, some reason, you don't like Tumblr, check out Posterous. If that still doesn't suit your needs, [Wordpress.com](http://wordpress.com) (the cloud-hosted version of Wordpress that gives you the power of Wordpress without the headache) would be my third recommendation.
+To recap, if you're not a hacker, I'd recommend Tumblr. It offers the best balance of features and ease of use, and they seem to have solved their downtime problems. If, for some reason, you don't like Tumblr, check out Posterous. If that still doesn't suit your needs, [Wordpress.com](http://wordpress.com) (the cloud-hosted version of Wordpress that gives you the power of Wordpress without the headache) would be my third recommendation.
 
 If you are a hacker, definitely check out Jekyll.
 
