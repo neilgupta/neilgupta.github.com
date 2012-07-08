@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Journey to Jekyll
-tags: reviews home
+tags: reviews
 ---
 
 {{ page.title }}

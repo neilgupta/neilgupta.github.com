@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introducing Odorno Virtual Home Furnishing
-tags: ideas home
+tags: ideas
 ---
 
 {{ page.title }}

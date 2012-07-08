@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ignoring Calls Elegantly
-tags: ideas home
+tags: ideas
 ---
 
 {{ page.title }}
@@ -38,3 +38,5 @@ your attention.
 I'd love to see iOS 5 implement this functionality, since all of the
 hardware needed (accelerometer and proximity sensor) is already
 built-in to all of their devices.
+
+**Update on 7/8/12:** I recently learned that certain older Android phones already had this feature. I wonder why it never caught on.

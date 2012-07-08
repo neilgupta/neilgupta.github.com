@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Make Your Car's Navigation System Safer
-tags: ideas home
+tags: ideas
 ---
 
 {{ page.title }}

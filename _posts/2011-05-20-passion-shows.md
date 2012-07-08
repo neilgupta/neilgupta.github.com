@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Passion Shows
-tags: aside home
+tags: aside
 ---
 
 {{ page.title }}

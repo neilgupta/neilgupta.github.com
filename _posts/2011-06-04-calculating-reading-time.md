@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Calculating Reading Time
-tags: ideas home
+tags: ideas
 ---
 
 {{ page.title }}

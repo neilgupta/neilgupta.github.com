@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Conquering Failure
-tags: thoughts home
+tags: thoughts
 ---
 
 {{ page.title }}

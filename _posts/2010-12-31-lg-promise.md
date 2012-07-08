@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LG Promise
-tags: ideas home
+tags: ideas
 ---
 
 {{ page.title }}
