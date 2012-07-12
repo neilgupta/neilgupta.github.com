@@ -4,9 +4,6 @@ title: Apple's Mobile Market Share vs Profit Share
 tags: link
 ---
 
-{{ page.title }}
-================
-
 <p class="meta">{{ page.date | date_to_string }} - Chicago</p>
 
 via <a href="http://tech.fortune.cnn.com/2010/09/21/pie-chart-apples-outrageous-share-of-the-mobile-industrys-profits/">CNN Money</a>

@@ -4,9 +4,6 @@ title: Quote - Hockey Players
 tags: quotes
 ---
 
-{{ page.title }}
-================
-
 <p class="meta">{{ page.date | date_to_string }} - Chicago</p>
 
 via <a href="http://37signals.com/svn/posts/2752-a-good-hockey-player-plays-where-the-puck">37signals.com</a>

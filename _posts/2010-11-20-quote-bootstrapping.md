@@ -4,9 +4,6 @@ title: Quote - Bootstrapping
 tags: quotes
 ---
 
-{{ page.title }}
-================
-
 <p class="meta">{{ page.date | date_to_string }} - Chicago</p>
 
 via [37signals](http://37signals.com/svn/posts/2636-the-things-you-do-more-often-are-the-things)

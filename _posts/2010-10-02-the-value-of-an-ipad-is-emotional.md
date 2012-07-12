@@ -4,9 +4,6 @@ title: The Value of an iPad is Emotional
 tags: quotes
 ---
 
-{{ page.title }}
-================
-
 <p class="meta">{{ page.date | date_to_string }} - Chicago</p>
 
 via [Forbes](http://blogs.forbes.com/parmyolson/2010/10/01/why-an-ipad-is-like-your-pet-dog/)

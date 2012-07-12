@@ -4,9 +4,6 @@ title: How to Make Your Car's Navigation System Safer
 tags: ideas
 ---
 
-{{ page.title }}
-================
-
 <p class="meta">{{ page.date | date_to_string }} - Chicago</p>
 
 Last night, I was watching The Colbert Report do a segment on Obama's State of the Union address. During one part of the speech, Obama encouraged entrepreneurship as a cure to our current economic crisis, reminding us that America is responsible for putting cars in driveways and computers in offices. Colbert made a joke about how we then proceeded to put computers in cars, which put the cars in offices thanks to poor drivers distracted by their touchscreen navigation systems.

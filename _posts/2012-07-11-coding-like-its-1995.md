@@ -4,9 +4,6 @@ title: Coding Like It's 1995
 tags: code
 ---
 
-{{ page.title }}
-================
-
 <p class="meta">{{ page.date | date_to_string }} - Chicago</p>
 
 I set out to design my first HTML email today, and put together a simple CSS design in under 15 minutes. Then I looked at other HTML email templates out of curiosity and noticed that every single one of them used tables for their layout, even Apple's. Turns out that most email clients don't accept the standard CSS that we've grown accustomed to in browsers, making even IE6 look good. The best email client out there is Apple's Mail.app, which uses Webkit for all of its html rendering. Surprisingly, one of the worst is Gmail. Almost none of your basic CSS will work in Gmail. What this means is that designing even simple HTML emails can become an extremely painful ordeal if you're not prepared.

@@ -4,9 +4,6 @@ title: Deprecating Java on Mac
 tags: aside
 ---
 
-{{ page.title }}
-================
-
 <p class="meta">{{ page.date | date_to_string }} - Chicago</p>
 
 via [The Register](http://www.theregister.co.uk/2010/10/22/jobs_on_java_for_mac/)

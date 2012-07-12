@@ -4,9 +4,6 @@ title: Quote - Why Entrepreneurs Should Love Rap Music
 tags: quotes
 ---
 
-{{ page.title }}
-================
-
 <p class="meta">{{ page.date | date_to_string }} - Chicago</p>
 
 via <a href="http://areallybadidea.com/why-entrepreneurs-should-love-rap-music">areallybadidea.com</a>

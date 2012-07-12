@@ -4,9 +4,6 @@ title: Google Search Results Statistics
 tags: quotes
 ---
 
-{{ page.title }}
-================
-
 <p class="meta">{{ page.date | date_to_string }} - Chicago</p>
 
 via <a href="http://www.fastcompany.com/1721252/how-facebook-killed-spam">fastcompany.com</a>

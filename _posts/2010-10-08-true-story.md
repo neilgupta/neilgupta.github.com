@@ -4,9 +4,6 @@ title: True Story
 tags: quotes
 ---
 
-{{ page.title }}
-================
-
 <p class="meta">{{ page.date | date_to_string }} - Chicago</p>
 
 <img src="/post_files/truestory.jpg" alt="" width="100%" />

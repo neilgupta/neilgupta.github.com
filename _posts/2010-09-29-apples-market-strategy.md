@@ -4,9 +4,6 @@ title: Apple's Market Strategy
 tags: quotes
 ---
 
-{{ page.title }}
-================
-
 <p class="meta">{{ page.date | date_to_string }} - Chicago</p>
 
 via <a href="http://radar.oreilly.com/2010/09/apple-segmentation-strategy-an.html">O'Reilly Radar</a>

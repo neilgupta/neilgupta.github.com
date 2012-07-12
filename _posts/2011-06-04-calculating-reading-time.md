@@ -4,9 +4,6 @@ title: Calculating Reading Time
 tags: ideas
 ---
 
-{{ page.title }}
-================
-
 <p class="meta">{{ page.date | date_to_string }} - San Jose</p>
 
 There's a useful little shell command posted [here](http://www.leancrew.com/all-this/2011/06/reading-time-in-textmate/) to calculate the reading time of a text selection based on the average reading speed. 

@@ -4,9 +4,6 @@ title: iPad in Education Report
 tags: quotes
 ---
 
-{{ page.title }}
-================
-
 <p class="meta">{{ page.date | date_to_string }} - San Jose</p>
 
 via [Notre Dame University](http://www.nd.edu/~cangst/NotreDame_iPad_Report_01-06-11.pdf)

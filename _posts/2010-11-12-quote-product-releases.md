@@ -4,9 +4,6 @@ title: Quote - Product Releases
 tags: quotes
 ---
 
-{{ page.title }}
-================
-
 <p class="meta">{{ page.date | date_to_string }} - Chicago</p>
 
 via [37signals](http://37signals.com/svn/posts/2660-usage-is-like-oxygen-for-ideas-you-can-never)

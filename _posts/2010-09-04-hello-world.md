@@ -4,9 +4,6 @@ title: Hello World
 tags: announcement
 ---
 
-{{ page.title }}
-================
-
 <p class="meta">{{ page.date | date_to_string }} - Chicago</p>
 
 <p>Welcome to the totally revamped Metamorphium!</p>

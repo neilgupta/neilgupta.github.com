@@ -4,9 +4,6 @@ title: Core Compentency
 tags: quotes
 ---
 
-{{ page.title }}
-================
-
 <p class="meta">{{ page.date | date_to_string }} - Chicago</p>
 
 via <a href="http://wetzler.me/dropbox-syncplicity/">wetzler.me</a>

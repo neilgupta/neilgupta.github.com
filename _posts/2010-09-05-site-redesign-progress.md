@@ -4,9 +4,6 @@ title: Site Redesign Progress
 tags: announcement
 ---
 
-{{ page.title }}
-================
-
 <p class="meta">{{ page.date | date_to_string }} - Chicago</p>
 
 <p>To my surprise, this site came together rather quickly in the last 2 days. However, there is still much work left to be done, and I must currently shift my attention to another project for the moment. Therefore, in case you are browsing Metamorphium before I have a chance to update, please know that the following features are broken or missing:</p>

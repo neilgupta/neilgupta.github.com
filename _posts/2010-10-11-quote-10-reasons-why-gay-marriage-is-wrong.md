@@ -4,9 +4,6 @@ title: Quote - 10 Reasons Why Gay Marriage is Wrong
 tags: quotes
 ---
 
-{{ page.title }}
-================
-
 <p class="meta">{{ page.date | date_to_string }} - Chicago</p>
 
 via <a href="http://hannahnewwhen.tumblr.com/post/1205235533/because-if-i-reblog-a-photo-the-caption-doesnt-appear">hannahnewwhen.tumblr.com</a>

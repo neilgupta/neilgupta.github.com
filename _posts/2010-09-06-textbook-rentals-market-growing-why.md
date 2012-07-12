@@ -4,9 +4,6 @@ title: Textbook Rentals Market Growing? Why?
 tags: thoughts
 ---
 
-{{ page.title }}
-================
-
 <p class="meta">{{ page.date | date_to_string }} - Chicago</p>
 
 <p>via <a href="http://techcrunch.com/2010/09/01/textbook-rentals-go-into-hypergrowth-bookrenter-says-revenues-are-growing-725-percent/">TechCrunch</a></p>

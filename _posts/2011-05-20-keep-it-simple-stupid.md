@@ -4,9 +4,6 @@ title: Keep It Simple, Stupid
 tags: quotes
 ---
 
-{{ page.title }}
-================
-
 <p class="meta">{{ page.date | date_to_string }} - San Jose</p>
 
 via <a href="http://blogs.forbes.com/carminegallo/2011/05/16/steve-jobs-get-rid-of-the-crappy-stuff/">blogs.forbes.com</a>

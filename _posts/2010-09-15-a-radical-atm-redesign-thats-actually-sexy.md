@@ -4,9 +4,6 @@ title: A Radical ATM Redesign That's Actually Sexy
 tags: link
 ---
 
-{{ page.title }}
-================
-
 <p class="meta">{{ page.date | date_to_string }} - Chicago</p>
 
 <p>via <a href="http://vimeo.com/14939329">Vimeo</a></p>

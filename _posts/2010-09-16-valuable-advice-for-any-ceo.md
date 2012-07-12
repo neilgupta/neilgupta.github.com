@@ -4,9 +4,6 @@ title: Valuable Advice for Any CEO
 tags: quotes
 ---
 
-{{ page.title }}
-================
-
 <p class="meta">{{ page.date | date_to_string }} - Chicago</p>
 
 via <a href="http://bhorowitz.com/2010/04/28/why-we-prefer-founding-ceos/">ben's blog</a>

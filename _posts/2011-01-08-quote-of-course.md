@@ -4,9 +4,6 @@ title: Quote - Of Course
 tags: quotes
 ---
 
-{{ page.title }}
-================
-
 <p class="meta">{{ page.date | date_to_string }} - San Jose</p>
 
 via [GigaOm](http://gigaom.com/2010/01/03/objectified-design/)

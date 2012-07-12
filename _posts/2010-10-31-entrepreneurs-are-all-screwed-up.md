@@ -4,9 +4,6 @@ title: Entrepreneurs Are All Screwed Up
 tags: quotes
 ---
 
-{{ page.title }}
-================
-
 <p class="meta">{{ page.date | date_to_string }} - Chicago</p>
 
 via [TechCrunch](http://techcrunch.com/2010/10/31/are-you-a-pirate/)

@@ -4,9 +4,6 @@ title: Trunk Notes
 tags: review
 ---
 
-{{ page.title }}
-================
-
 <p class="meta">{{ page.date | date_to_string }} - Chicago</p>
 
 <p>I've been meaning to try transitioning to a wiki for organizing my notes for many years now, after hearing so many recommendations for using them. I even got as far as setting up MediaWiki on my server, but the biggest challenge I faced was that it took too long to navigate to my wiki, log in, create a new page, add content, and then optionally link it with the rest of my wiki. It seemed so much easier to just email myself the note, since I always already have my email client open, and it's simple to edit one text box and hit send. Email has a low pain threshold, which is why it has managed to remain so popular, even in the face of so many newer, more advanced technologies. But even if I got used to leaving my wiki open all the time too, making it as accessible as my email on my computer, I hit another barrier when I realized that I spend most of my time and write most of my notes on my iPhone. However, editing a full fledged wiki site from the iPhone is definitely unpleasant, to put it gently. As a result, I avoided wikis for another few years and ignored peoples' constant urges that I should try them.</p>

@@ -4,9 +4,6 @@ title: How Apple Adopted the Kleenex Problem
 tags: thoughts
 ---
 
-{{ page.title }}
-================
-
 <p class="meta">{{ page.date | date_to_string }} - San Jose</p>
 
 I just realized that some people think the Samsung Galaxy Tab is a type of iPad.

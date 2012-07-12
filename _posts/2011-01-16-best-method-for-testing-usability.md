@@ -4,9 +4,6 @@ title: Best Method for Testing Usability?
 tags: quotes
 ---
 
-{{ page.title }}
-================
-
 <p class="meta">{{ page.date | date_to_string }} - Chicago</p>
 
 Comment from my Facebook news feed:

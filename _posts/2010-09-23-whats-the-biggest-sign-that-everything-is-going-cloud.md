@@ -4,9 +4,6 @@ title: What's the Biggest Sign that Everything is Going Cloud?
 tags: link
 ---
 
-{{ page.title }}
-================
-
 <p class="meta">{{ page.date | date_to_string }} - Chicago</p>
 
 [Blockbuster files for Chapter 11 bankruptcy](http://www.engadget.com/2010/09/23/blockbuster-files-for-chapter-11/).

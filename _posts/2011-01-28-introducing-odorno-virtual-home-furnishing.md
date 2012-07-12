@@ -4,9 +4,6 @@ title: Introducing Odorno Virtual Home Furnishing
 tags: ideas
 ---
 
-{{ page.title }}
-================
-
 <p class="meta">{{ page.date | date_to_string }} - Chicago</p>
 
 <img src="http://metamorphium.com/downloads/odorno/logo.jpg" alt="Odorno Logo" width="100%" />

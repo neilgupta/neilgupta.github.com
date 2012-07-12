@@ -4,9 +4,6 @@ title: Site Redesign
 tags: announcement
 ---
 
-{{ page.title }}
-================
-
 <p class="meta">{{ page.date | date_to_string }} - Chicago</p>
 
 Quick update: I've redesigned the Metamorphium site to give it more of

@@ -4,9 +4,6 @@ title: Apple Finally Killed the Remote
 tags: aside
 ---
 
-{{ page.title }}
-================
-
 <p class="meta">{{ page.date | date_to_string }} - Chicago</p>
 
 via [9to5mac](http://www.9to5mac.com/27015/airplay-is-apples-go-to-market-internet-tv-strategy)

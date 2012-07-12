@@ -4,9 +4,6 @@ title: Initial Thoughts on Mac App Store
 tags: aside
 ---
 
-{{ page.title }}
-================
-
 <p class="meta">{{ page.date | date_to_string }} - San Jose</p>
 
 <p>Apple finally released the Mac App Store yesterday, which will undoubtedly change how most people use their computers forever.</p>

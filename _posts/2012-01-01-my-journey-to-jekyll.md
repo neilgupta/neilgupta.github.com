@@ -4,9 +4,6 @@ title: My Journey to Jekyll
 tags: reviews
 ---
 
-{{ page.title }}
-================
-
 <p class="meta">{{ page.date | date_to_string }} - San Jose</p>
 
 I recently switched to generating this blog using [Jekyll](http://jekyllrb.com/), and hosting it on [GitHub Pages](http://pages.github.com/). Over the years, I've gone through many blogging platforms before arriving at my current choice. This is a quick overview of the platforms I've tried, and my thoughts on each one.

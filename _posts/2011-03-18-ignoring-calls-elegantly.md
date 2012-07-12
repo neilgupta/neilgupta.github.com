@@ -4,9 +4,6 @@ title: Ignoring Calls Elegantly
 tags: ideas
 ---
 
-{{ page.title }}
-================
-
 <p class="meta">{{ page.date | date_to_string }} - Chicago</p>
 
 I read [a post last

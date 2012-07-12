@@ -4,9 +4,6 @@ title: Quote - Warriors and Scholars
 tags: quotes
 ---
 
-{{ page.title }}
-================
-
 <p class="meta">{{ page.date | date_to_string }} - San Jose</p>
 
 Aza Raskin, [discussing user interface
