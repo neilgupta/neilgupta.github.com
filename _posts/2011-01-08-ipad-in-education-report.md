@@ -2,9 +2,8 @@
 layout: post
 title: iPad in Education Report
 tags: quotes
+location: San Jose
 ---
-
-<p class="meta">{{ page.date | date_to_string }} - San Jose</p>
 
 via [Notre Dame University](http://www.nd.edu/~cangst/NotreDame_iPad_Report_01-06-11.pdf)
 

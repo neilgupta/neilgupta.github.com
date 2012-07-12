@@ -2,9 +2,8 @@
 layout: post
 title: LG Promise
 tags: ideas
+location: San Jose
 ---
-
-<p class="meta">{{ page.date | date_to_string }} - San Jose</p>
 
 I was going through my old files recently, and came across a concept design I made in April for [LG's Design the Future competition](http://www.crowdspring.com/project/2283311_lg-design-the-future-competition/access/), and figured I'd throw it up here just to document it.
 

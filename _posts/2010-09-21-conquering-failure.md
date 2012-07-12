@@ -2,9 +2,8 @@
 layout: post
 title: Conquering Failure
 tags: thoughts
+location: Chicago
 ---
-
-<p class="meta">{{ page.date | date_to_string }} - Chicago</p>
 
 > A drenched man is not afraid of the rain.
 >

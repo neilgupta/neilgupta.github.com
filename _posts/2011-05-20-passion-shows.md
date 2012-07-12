@@ -2,9 +2,8 @@
 layout: post
 title: Passion Shows
 tags: aside
+location: San Diego
 ---
-
-<p class="meta">{{ page.date | date_to_string }} - San Diego</p>
 
 <p align="center"><img src="/post_files/passionshows.jpg" alt="" width="400" /></p>
 

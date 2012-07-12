@@ -2,9 +2,8 @@
 layout: post
 title: Core Compentency
 tags: quotes
+location: Chicago
 ---
-
-<p class="meta">{{ page.date | date_to_string }} - Chicago</p>
 
 via <a href="http://wetzler.me/dropbox-syncplicity/">wetzler.me</a>
 

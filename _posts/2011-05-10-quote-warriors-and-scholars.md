@@ -2,9 +2,8 @@
 layout: post
 title: Quote - Warriors and Scholars
 tags: quotes
+location: San Jose
 ---
-
-<p class="meta">{{ page.date | date_to_string }} - San Jose</p>
 
 Aza Raskin, [discussing user interface
 design](http://thenextweb.com/video/2011/05/10/apple-baby-aza-raskin-on-the-secrets-of-great-user-interface/):

@@ -2,9 +2,8 @@
 layout: post
 title: Why Psychology?
 tags: thoughts
+location: Chicago
 ---
-
-<p class="meta">{{ page.date | date_to_string }} - Chicago</p>
 
 <p>via <a href="http://techcrunch.com/2010/09/06/my-life-as-a-ceo/">TechCrunch</a></p>
 <blockquote>

@@ -2,9 +2,8 @@
 layout: post
 title: An Often Forgotten Benefit of iPads in Education
 tags: quotes
+location: Chicago
 ---
-
-<p class="meta">{{ page.date | date_to_string }} - Chicago</p>
 
 via [Fraser Speirs](http://speirs.org/blog/2010/9/12/the-ipad-project-on-battery-life.html)
 

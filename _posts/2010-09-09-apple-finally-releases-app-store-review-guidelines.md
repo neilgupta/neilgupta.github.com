@@ -2,9 +2,8 @@
 layout: post
 title: Apple Finally Releases App Store Review Guidelines
 tags: aside
+location: Chicago
 ---
-
-<p class="meta">{{ page.date | date_to_string }} - Chicago</p>
 
 via [App Store Review Guidelines](http://stadium.weblogsinc.com/engadget/files/app-store-guidelines.pdf) ([Mirrored by Engadget](http://www.engadget.com/2010/09/09/apples-app-store-review-guidelines-we-dont-need-any-more-far/))
 

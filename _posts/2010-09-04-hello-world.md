@@ -2,9 +2,8 @@
 layout: post
 title: Hello World
 tags: announcement
+location: Chicago
 ---
-
-<p class="meta">{{ page.date | date_to_string }} - Chicago</p>
 
 <p>Welcome to the totally revamped Metamorphium!</p>
 <p>While designing this site from scratch, I realized that I was being limited by Wordpress and really didn't need 99% of its features. For my blogging needs, which are very modest, a simple custom designed blog made most sense. But rather than pour hours of work into making a whole new blogging platform, I realized that Posterous's solution was exactly the thing I needed. Since I spend most of my time mobile and live off of my iPhone, being able to email in my posts meant that I'm much more likely to maintain the blog. Even this post was typed on my iPhone.</p>

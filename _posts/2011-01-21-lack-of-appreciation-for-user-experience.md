@@ -2,9 +2,8 @@
 layout: post
 title: Lack of Appreciation for User Experience
 tags: quotes
+location: Chicago
 ---
-
-<p class="meta">{{ page.date | date_to_string }} - Chicago</p>
 
 This is an old article, but I recently found it in my notes and
 figured I'd post it here.

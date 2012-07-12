@@ -2,9 +2,8 @@
 layout: post
 title: Quote - Group Think
 tags: quotes
+location: Chicago
 ---
-
-<p class="meta">{{ page.date | date_to_string }} - Chicago</p>
 
 > You cannot make a man by standing a sheep on its hind-legs. But by standing a flock of sheep in that position you can make a crowd of men.
 >

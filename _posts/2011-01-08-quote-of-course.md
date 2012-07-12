@@ -2,9 +2,8 @@
 layout: post
 title: Quote - Of Course
 tags: quotes
+location: San Jose
 ---
-
-<p class="meta">{{ page.date | date_to_string }} - San Jose</p>
 
 via [GigaOm](http://gigaom.com/2010/01/03/objectified-design/)
 > Most companies (including web startups), he said, are looking to "wow" with their products, when in reality what they should be looking for is an "'of course' reaction from their users."

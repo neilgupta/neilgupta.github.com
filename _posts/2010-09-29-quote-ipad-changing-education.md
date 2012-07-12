@@ -2,9 +2,8 @@
 layout: post
 title: Quote - iPad Changing Education
 tags: quotes
+location: Chicago
 ---
-
-<p class="meta">{{ page.date | date_to_string }} - Chicago</p>
 
 via [Fraser Speirs](http://speirs.org/blog/2010/9/29/the-invisible-computing-teacher.html)
 

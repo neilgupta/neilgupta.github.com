@@ -2,9 +2,8 @@
 layout: post
 title: Initial Thoughts on Mac App Store
 tags: aside
+location: San Jose
 ---
-
-<p class="meta">{{ page.date | date_to_string }} - San Jose</p>
 
 <p>Apple finally released the Mac App Store yesterday, which will undoubtedly change how most people use their computers forever.</p>
 <p>Like everybody else, my initial reaction after launching the App Store was to look quizzically at the new user interface. Tim Morgan <a href="http://riscfuture.tumblr.com/post/2626504717/app-store-twitter-ui-failures" target="_blank">details each change</a> in his interesting analysis of Apple's design decisions.</p>

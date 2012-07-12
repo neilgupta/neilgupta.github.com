@@ -2,9 +2,8 @@
 layout: post
 title: IE9 - Better, But Still Not There
 tags: quotes
+location: Chicago
 ---
-
-<p class="meta">{{ page.date | date_to_string }} - Chicago</p>
 
 via [TechCrunch](http://techcrunch.com/2010/09/15/ie9-sites-shine-tctv/)
 

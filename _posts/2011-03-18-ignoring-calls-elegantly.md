@@ -2,9 +2,8 @@
 layout: post
 title: Ignoring Calls Elegantly
 tags: ideas
+location: Chicago
 ---
-
-<p class="meta">{{ page.date | date_to_string }} - Chicago</p>
 
 I read [a post last
 month](http://minimalmac.com/post/3165411533/airplane-mode) about

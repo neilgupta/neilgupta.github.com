@@ -2,9 +2,8 @@
 layout: post
 title: Reaction to iPads in School
 tags: quotes
+location: Chicago
 ---
-
-<p class="meta">{{ page.date | date_to_string }} - Chicago</p>
 
 <p>via <a href="http://speirs.org/blog/2010/9/6/the-ipad-project-bits-pieces-and-qa.html">Fraser Speirs</a></p>
 <blockquote>

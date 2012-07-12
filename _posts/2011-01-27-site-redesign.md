@@ -2,9 +2,8 @@
 layout: post
 title: Site Redesign
 tags: announcement
+location: Chicago
 ---
-
-<p class="meta">{{ page.date | date_to_string }} - Chicago</p>
 
 Quick update: I've redesigned the Metamorphium site to give it more of
 a focus on some of my photography, rather than a boring grey

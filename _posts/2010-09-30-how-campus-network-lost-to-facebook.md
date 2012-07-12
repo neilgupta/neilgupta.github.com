@@ -2,9 +2,8 @@
 layout: post
 title: How Campus Network Lost to Facebook
 tags: quotes
+location: Chicago
 ---
-
-<p class="meta">{{ page.date | date_to_string }} - Chicago</p>
 
 via [Slate](http://www.slate.com/id/2269131/)
 

@@ -2,9 +2,8 @@
 layout: post
 title: Ideas don't make you rich. The correct execution of ideas does.
 tags: quotes
+location: Chicago
 ---
-
-<p class="meta">{{ page.date | date_to_string }} - Chicago</p>
 
 via <a href="http://blogs.forbes.com/jeffbercovici/2011/03/11/excerpt-maxim-founder-felix-dennis-on-the-fallacy-of-big-ideas/">blogs.forbes.com</a>
 

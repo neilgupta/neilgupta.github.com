@@ -2,9 +2,8 @@
 layout: post
 title: Study Investigates Teaching with iPad Instead of Book
 tags: quotes
+location: Chicago
 ---
-
-<p class="meta">{{ page.date | date_to_string }} - Chicago</p>
 
 via [TUAW](http://www.tuaw.com/2010/09/14/hmh-fuse-calfornia-tests-a-full-year-algebra-course-on-an-ipad/)
 
