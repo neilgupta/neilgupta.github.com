@@ -5,7 +5,7 @@ tags: ideas
 location: Chicago
 ---
 
-<img src="http://metamorphium.com/downloads/odorno/logo.jpg" alt="Odorno Logo" width="100%" />
+<img src="/post_files/odorno/logo.jpg" alt="Odorno Logo" width="100%" />
 
 Well, ok, not actually *introducing*, since Odorno isn't a real product. It's an early-stage business idea my partner-in-crime Muhammed Fazeel and I came up with our first year in college.
 
@@ -21,7 +21,7 @@ These models would then be uploaded to our online service, which would feature a
 
 We had submitted this idea to an entrepreneurship competition at Illinois Institute of Technology called the Idea Challenge. To our surprise, we won second place with a $100 prize and advanced to the Idea2Product MO-IL regional competition at Saint Louis University. As we prepared for the regionals, we talked to a handful of manufacturing companies in Chicago to see if they would consider listing their products in our catalog, and generally received a positive response (although this was probably because we were just students and they weren't making an actual commitment). We also talked to a couple real estate firms to see if they would consider using our service to help their clients furnish new homes, and also received a generally positive response. We created hundreds of versions of our presentation, designed UI mockups, and wrote our first five-page product summary.
 
-<img src="http://metamorphium.com/downloads/odorno/screenshot.jpg" alt="Odorno Screenshot" width="100%" />
+<img src="/post_files/odorno/screenshot.jpg" alt="Odorno Screenshot" width="100%" />
 
 After much stress and many sleepless nights, the day of the competition arrived. We nervously gave our presentation, and awaited the results. In the end, we won $250 but did not advance to the finals. Wondering how we could improve, we eagerly found our judge to receive feedback. We were shocked to hear a couple of racist and even sexist comments that I won't detail here. Suffice it to say, we were quite angry, though, in hindsight, this incident is one of the most humorous experiences I've had as an entrepreneur, and was a definite learning moment for us.
 
@@ -44,4 +44,4 @@ I'm finally releasing these documents and telling this story because in the past
 
 If somebody does find this idea interesting and wishes to take it up, feel free to email me at neil@metamorphium.com if you want to see our presentation slides or other details on the idea. 
 
-**[Read our product summary](http://metamorphium.com/downloads/odorno/summary.pdf)**.
+**[Read our product summary](/post_files/odorno/summary.pdf)**.

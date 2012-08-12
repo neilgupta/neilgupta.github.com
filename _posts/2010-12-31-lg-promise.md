@@ -9,4 +9,4 @@ I was going through my old files recently, and came across a concept design I ma
 
 The LG Promise is a concept phone that uses RFID technology to replace your physical wallet with a virtual, more secure wallet. It also features new interaction models, such as a proximity sensor that displays and hides the on-screen controls when the user's hand approaches.
 
-<img src="http://metamorphium.com/downloads/LGPromise.jpg" alt="LG Promise" width="100%" />
+<img src="/post_files/LGPromise.jpg" alt="LG Promise" width="100%" />
