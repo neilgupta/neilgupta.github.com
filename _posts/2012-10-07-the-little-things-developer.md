@@ -21,12 +21,13 @@ Every developer has a list of tools and tweaks that they build up over time to i
 
 **Other**
 
-* [Inconsolata-g monospaced font](http://leonardo-m.livejournal.com/77079.html) - because the default system fonts suck for code. Be sure to change the default font in Terminal preferences to Inconsolata-g 12pt antialiased, and in ST2 add the following line to preferences:
+[Inconsolata-g monospaced font](http://leonardo-m.livejournal.com/77079.html) - because the default system fonts suck for code. Be sure to change the default font in Terminal preferences to Inconsolata-g 12pt antialiased, and in ST2 add the following line to preferences:
 
+```
 	{
 		"font_face": "Inconsolata-g"
 	}
+```
 
-
-* Enable "New Terminal Tab at Folder" service from Keyboard Shortcuts System Preferences pane
+Enable "New Terminal Tab at Folder" service from Keyboard Shortcuts System Preferences pane
 ![System Preferences Screenshot](https://pbs.twimg.com/media/A1AmLy6CUAElGq4.jpg:large)
