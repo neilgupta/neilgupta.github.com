@@ -18,7 +18,9 @@ Every developer has a list of tools and tweaks that they build up over time to i
 * [Install Package Control](http://wbond.net/sublime_packages/package_control)
 * Install `LESS` via Package Control ([GitHub](https://github.com/danro/LESS-sublime))
 * Install `CoffeeScript` via Package Control ([GitHub](https://github.com/Xavura/CoffeeScript-Sublime-Plugin))
+* Install `jQuery` via Package Control ([GitHub](https://github.com/SublimeText/jQuery))
 * Install `Git` via Package Control ([GitHub](https://github.com/kemayo/sublime-text-2-git))
+* Install `Tag` via Package Control ([GitHub](https://github.com/SublimeText/Tag))
 
 **Other**
 
