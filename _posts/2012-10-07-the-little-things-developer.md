@@ -14,25 +14,18 @@ Every developer has a list of tools and tweaks that they build up over time to i
 
 **Terminal Hacks**
 
-Disable Expose animations.
+See my [osx.sh](https://github.com/neilgupta/dotfiles/blob/master/osx.sh) for a list of useful Terminal hacks.
 
-`defaults write com.apple.dock expose-animation-duration -int 0; killall Dock`
+**Keyboard Remapping**
 
-Disable Launchpad animations. [See more](http://www.defaults-write.com/disable-launchpad-fade-effects/#.ULBWx6VOIy4)
+See these articles to set up your own awesome keyboard mappings.
 
-`defaults write com.apple.dock springboard-show-duration -int 0`
+* [A Modern Space Cadet](http://stevelosh.com/blog/2012/10/a-modern-space-cadet/#pckeyboardhack) - Uses KeyRemap4MacBook and PCKeyboarcHack to remap keys to be more useful.
+* [Using Slate](http://thume.ca/howto/2012/11/19/using-slate/) - Walks through how to set up Slate to efficiently manage windows on your Mac.
 
-`defaults write com.apple.dock springboard-hide-duration -int 0`
+See my [.slate config file](https://github.com/neilgupta/dotfiles/blob/master/slate) and my [KeyRemap4MacBook xml file](https://github.com/neilgupta/dotfiles/blob/master/KeyRemap4MacBook/private.xml) to see how I'm using these tools.
 
-`killall Dock`
-
-Disable auto-hiding dock delay. [See more](http://www.defaults-write.com/remove-the-dock-auto-hide-show-delay/#.ULBXRKVOIy4)
-
-`defaults write com.apple.Dock autohide-delay -float 0; killall Dock`
-
-Enable a hidden gesture to go back to your most recent Space with a four finger double-tap. [See more](http://www.defaults-write.com/enable-the-hidden-go-to-recent-space-gesture/#.ULBWWKVOIy4)
-
-`defaults write com.apple.dock double-tap-jump-back -bool TRUE; killall Dock`
+In addition, modify Application windows in System Preferences -> Keyboard -> Keyboard Shortcuts -> Mission Control to respond to `hyper+tab`.
 
 **Sublime Text 2**
 
@@ -47,7 +40,7 @@ Enable a hidden gesture to go back to your most recent Space with a four finger 
 **Other**
 
 * [Inconsolata-g monospaced font](http://leonardo-m.livejournal.com/77079.html) - because the default system fonts suck for code. Be sure to change the default font in Terminal preferences to Inconsolata-g 12pt antialiased. In ST2, add the following line to preferences: `"font_face": "Inconsolata-g"`
-* Enable "New Terminal Tab at Folder" service from Keyboard Shortcuts System Preferences pane
 * [Setup dotfiles](http://blog.smalleycreative.com/tutorials/using-git-and-github-to-manage-your-dotfiles/)
+* Enable "New Terminal Tab at Folder" service from Keyboard Shortcuts System Preferences pane
 
 ![System Preferences Screenshot](https://pbs.twimg.com/media/A1AmLy6CUAElGq4.jpg:large)
