@@ -22,7 +22,9 @@ Disable Launchpad animations. [See more](http://www.defaults-write.com/disable-l
 
 ```
 defaults write com.apple.dock springboard-show-duration -int 0
+
 defaults write com.apple.dock springboard-hide-duration -int 0
+
 killall Dock
 ```
 
