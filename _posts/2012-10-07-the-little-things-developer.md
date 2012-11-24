@@ -12,6 +12,28 @@ Every developer has a list of tools and tweaks that they build up over time to i
 * [View plaintext files without an extension in QuickLook](https://github.com/whomwah/qlstephen)
 * [View image dimensions in QuickLook preview](https://github.com/Nyx0uf/qlImageSize)
 
+**Terminal Hacks**
+
+Disable Expose animations.
+
+`defaults write com.apple.dock expose-animation-duration -int 0; killall Dock`
+
+Disable Launchpad animations. [See more](http://www.defaults-write.com/disable-launchpad-fade-effects/#.ULBWx6VOIy4)
+
+```
+defaults write com.apple.dock springboard-show-duration -int 0
+defaults write com.apple.dock springboard-hide-duration -int 0
+killall Dock
+```
+
+Disable auto-hiding dock delay. [See more](http://www.defaults-write.com/remove-the-dock-auto-hide-show-delay/#.ULBXRKVOIy4)
+
+`defaults write com.apple.Dock autohide-delay -float 0; killall Dock`
+
+Enable a hidden gesture to go back to your most recent Space with a four finger double-tap. [See more](http://www.defaults-write.com/enable-the-hidden-go-to-recent-space-gesture/#.ULBWWKVOIy4)
+
+`defaults write com.apple.dock double-tap-jump-back -bool TRUE; killall Dock`
+
 **Sublime Text 2**
 
 * [Install Sublime Text 2](http://www.sublimetext.com/2)
