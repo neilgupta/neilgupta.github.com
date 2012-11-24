@@ -48,5 +48,6 @@ Enable a hidden gesture to go back to your most recent Space with a four finger 
 
 * [Inconsolata-g monospaced font](http://leonardo-m.livejournal.com/77079.html) - because the default system fonts suck for code. Be sure to change the default font in Terminal preferences to Inconsolata-g 12pt antialiased. In ST2, add the following line to preferences: `"font_face": "Inconsolata-g"`
 * Enable "New Terminal Tab at Folder" service from Keyboard Shortcuts System Preferences pane
+* [Setup dotfiles](http://blog.smalleycreative.com/tutorials/using-git-and-github-to-manage-your-dotfiles/)
 
 ![System Preferences Screenshot](https://pbs.twimg.com/media/A1AmLy6CUAElGq4.jpg:large)
