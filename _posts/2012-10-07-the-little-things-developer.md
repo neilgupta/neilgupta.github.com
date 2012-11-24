@@ -20,13 +20,11 @@ Disable Expose animations.
 
 Disable Launchpad animations. [See more](http://www.defaults-write.com/disable-launchpad-fade-effects/#.ULBWx6VOIy4)
 
-```
-defaults write com.apple.dock springboard-show-duration -int 0
+`defaults write com.apple.dock springboard-show-duration -int 0`
 
-defaults write com.apple.dock springboard-hide-duration -int 0
+`defaults write com.apple.dock springboard-hide-duration -int 0`
 
-killall Dock
-```
+`killall Dock`
 
 Disable auto-hiding dock delay. [See more](http://www.defaults-write.com/remove-the-dock-auto-hide-show-delay/#.ULBXRKVOIy4)
 
