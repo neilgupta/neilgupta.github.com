@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Achievement Unlocked
+title: Thoughts on YouTube's DMCA Takedown Process
 tags: thoughts
 location: San Jose
 ---
