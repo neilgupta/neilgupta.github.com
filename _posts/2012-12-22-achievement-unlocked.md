@@ -11,7 +11,7 @@ From who? [Sky Italia](http://en.wikipedia.org/wiki/Sky_Italia), a News Corp. co
 
 For what? A "[How to post to a forum on Moodle](http://www.youtube.com/watch?v=OkX0lY_MoOE)" tutorial I posted on YouTube in 2007 for a Google Summer of Code task. That means it was requested by Moodle, and sponsored by Google. It consisted of a screencast of Moodle and my voice over.
 
-I woke up to the following email this morning: 
+I woke up to the following email this morning:
 
 [![YouTube take down notice](/post_files/youtube_thumb.jpg)](/post_files/youtube.jpg)
 
