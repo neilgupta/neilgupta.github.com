@@ -193,6 +193,11 @@ ul.posts {
     color: #aaa;
   }
 
+  #followme {
+    font-size: 80%;
+    color: #666;
+  }
+
   .site .footer {
     font-size: 80%;
     color: #666;
