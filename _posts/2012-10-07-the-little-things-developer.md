@@ -11,6 +11,7 @@ Every developer has a list of tools and tweaks that they build up over time to i
 
 * [View plaintext files without an extension in QuickLook](https://github.com/whomwah/qlstephen)
 * [View image dimensions in QuickLook preview](https://github.com/Nyx0uf/qlImageSize)
+* [View Markdown files](https://github.com/toland/qlmarkdown/)
 
 **Terminal Hacks**
 
