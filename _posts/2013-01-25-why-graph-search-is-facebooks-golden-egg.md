@@ -1,0 +1,16 @@
+---
+layout: post
+title: Why Graph Search is Facebook's Golden Egg
+tags: thoughts
+location: Chicago
+---
+
+Facebook's Graph Search is [a lot of fun](http://actualfacebookgraphsearches.tumblr.com/). I wasted over an hour playing with it, exploring the interesting data it reveals, and rediscovering old memories. Zuckerberg wasn't exaggerating when he said it's Facebook's third pillar and is as important as the news feed. Graph Search is supposedly the first step towards Facebook's goal of becoming a social discovery / dating service. You can search for everything from "restaurants that my friends like" to "single females near me who like enchiladas and [Tabule](https://tabuleapp.com)." Suffice it to say it is a very good first step.
+
+While playing with it, I also discovered several photos that I couldn't believe I had "liked" at some point, and spent some time unliking things I wouldn't want to show in a search about me. This content was always available, but Graph Search makes it much easier to discover and filter. Just as my "likes" have suddenly become searchable, one has to wonder, how long until my search queries become public and searchable too? We already know that Facebook maintains and even privately [displays all of your search history](http://techcrunch.com/2012/09/21/facebook-search-history/). Imagine being able to search "people who searched for _____________ near me." The thought that everything I'm searching for might be visible on my timeline one day terrifies me. Our search history is probably the most accurate source for determining our interests and personalities. With great power, comes great responsibility, and Facebook is wielding a lot of power here.
+
+More importantly, despite Facebook's ambitions, it is and always will be an advertising company. As an advertiser, I would *love* to pitch my Russian bride service to people searching for single women near them. Facebook's users have always been more valuable than Google's because of the strong connection to your real identity and the thorough profile of what you like, where you've been, and who your friends are. Google is [desperate](http://plus.google.com) to have that kind of personal details and engagement. But Google's advantage was that it knew what you were looking for at that moment, whereas Facebook only knew where you had been and what you had done. Present data is more actionable than past data. With Graph Search, Facebook knows what you're looking for now too, and that is Google's worst nightmare.
+
+This is about much more than just becoming a dating site. Facebook has worked hard to put itself in a position to challenge Google's ad empire, and Graph Search is the product of that effort. As an added bonus, they've also raised the network effects barrier, making it even harder for another service to displace them. Even the technical name is designed to appeal to Wall Street and warn competitors, considering most of their users don't think of Facebook as a graph and don't understand the name.
+
+*This* is why Facebook valued itself at $100 billion pre-IPO.
