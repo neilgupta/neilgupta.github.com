@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Graph Search is Facebook's Golden Egg
+title: Graph Search Does What Google+ Couldn't
 tags: thoughts
 location: Chicago
 ---
@@ -11,6 +11,6 @@ While playing with it, I also discovered several photos that I couldn't believe 
 
 More importantly, despite Facebook's ambitions, it is and always will be an advertising company. As an advertiser, I would *love* to pitch my Russian bride service to people searching for single women near them. Facebook's users have always been more valuable than Google's because of the strong connection to your real identity and the thorough profile of what you like, where you've been, and who your friends are. Google is [desperate](http://plus.google.com) to have that kind of personal details and engagement. But Google's advantage was that it knew what you were looking for at that moment, whereas Facebook only knew where you had been and what you had done. Present data is more actionable than past data. With Graph Search, Facebook knows what you're looking for now too, and that is Google's worst nightmare.
 
-This is about much more than just becoming a dating site. Facebook has worked hard to put itself in a position to challenge Google's ad empire, and Graph Search is the product of that effort. As an added bonus, they've also raised the network effects barrier, making it even harder for another service to displace them. Even the technical name is designed to appeal to Wall Street and warn competitors, considering most of their users don't think of Facebook as a graph and don't understand the name.
+This is about much more than just becoming a dating site. Facebook has worked hard to put itself in a position to challenge Google's ad empire, and Graph Search is the product of that effort. Google set out to build a social network and failed. In response, Facebook promised to build a search engine and seems to have succeeded. As an added bonus, they've also raised the network effects barrier, making it even harder for another service to displace them. Even the technical name is designed to appeal to Wall Street and warn competitors, considering most of their users don't think of Facebook as a graph and don't understand the name.
 
 *This* is why Facebook valued itself at $100 billion pre-IPO.
