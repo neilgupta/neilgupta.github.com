@@ -228,6 +228,15 @@ ul.posts {
 
 }
 
+  .footnotes {
+    font-size: 90%;
+  }
+
+  #post img {
+    display: block;
+    margin: 10px auto;
+  }
+
   /* standard */
 
   #post pre {
