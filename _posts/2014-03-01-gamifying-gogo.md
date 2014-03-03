@@ -51,7 +51,5 @@ From Gogo's perspective, this strategy costs very little (just 5 minutes of wifi
 
 There are of course still gaps and issues that need to be worked out, but for a few hours of work, I think this is an interesting take on the Gogo onboarding flow. The audience seemed to agree because we won the Peer Choice award[^2] at the hackathon.
 
-[**Discuss this post on Hacker News**](http://news.ycombinator.com/submitlink?u=http%3A%2F%2Fblog.metamorphium.com%2F2014%2F03%2F01%2Fgamifying-gogo%2F&t=Gamifying%20Gogo's%20Customer%20Acquisition)
-
 [^1]: This button can be customized based on Gogo's business goals per flight. For example, on busy flights where the wifi usage is already maxed out, this CTA can be changed to encourage users to check out Gogo's movie library or games instead.
 [^2]: Peer Choice was determined by votes from other participants. We also received honorary mention by the judges, who liked our presentation (which had more screenshots than shown here) but could not pick us for first place because we didn't actually implement anything.
