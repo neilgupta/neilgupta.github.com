@@ -5,7 +5,7 @@ tags: design
 location: Chicago
 ---
 
-Last weekend, I attended a [Gogo](http://gogoair.com) hackathon organized by [Monkeybars](http://monkeybars.cc). Although most of the time was spent playing [board games](http://www.amazon.com/Hasbro-JUN118204-Risk-Legacy/dp/B005J146MI), watching movies, and just hanging out, I did also end up forming a team with Damaris Kroeber and Eric Trinh. Eric and I are both software developers who write code all day, and Damaris is a theoretical physicist who does whatever theoretical physicists do all day (apparently this involves Python). In other words, none of us had any desire to actually code at this hackathon.
+Last weekend, I attended a [Gogo](http://gogoair.com) hackathon organized by [Monkeybars](http://monkeybars.cc). Although most of the time was spent playing [board games](http://www.amazon.com/Hasbro-JUN118204-Risk-Legacy/dp/B005J146MI), watching movies, and just hanging out, I did also end up forming a team with Damaris Kroeber and Eric Trinh. Eric and I are both software developers who write code all day, and Damaris is a theoretical physicist who does whatever theoretical physicists do all day (apparently this involves Python). In other words, none of us wanted to spend our weekend coding for Gogo for free.
 
 But then we saw the following screenshot of Gogo's in-flight portal on a Delta flight.
 
