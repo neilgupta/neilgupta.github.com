@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sensors Everywhere.
+title: Sensors Everywhere
 tags: design
 location: Chicago
 ---
