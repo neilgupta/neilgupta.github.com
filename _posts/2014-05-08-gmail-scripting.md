@@ -9,15 +9,13 @@ I love Gmail Filters for setting up rules to automatically sort my email. Howeve
 
 Today, I discovered [Google Apps Scripts](https://script.google.com), an official tool for scripting Google apps. I immediately wrote 6 lines of Javascript to automatically archive my Airbrake notification emails after I read them:
 
-```javascript
-// Auto-archive airbrake messages
-function airbrake() {
-  var threads = GmailApp.search('label:inbox label:airbrake is:read');
-  for (var i = 0; i < threads.length; i++) {
-    threads[i].moveToArchive();
-  }
-};
-```
+    // Auto-archive airbrake messages
+    function airbrake() {
+      var threads = GmailApp.search('label:inbox label:airbrake is:read');
+      for (var i = 0; i < threads.length; i++) {
+        threads[i].moveToArchive();
+      }
+    };
 
 By itself, this script isn't very useful. However, Google Scripts also supports adding time-driven triggers to your scripts. For example, I set my airbrake function to run every 10 minutes. Now, whenever there's an error, I'll get an email from Airbrake. Roughly 10 minutes after I mark it as read, the email will automatically archive itself.
 
