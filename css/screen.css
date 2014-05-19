@@ -213,12 +213,12 @@ ul.posts span {
 
 .site .footer .contact {
   float: left;
-  margin-right: 3em;
+  margin-right: 10px;
 }
 
 .site .footer img {
   float: left;
-  margin-right: 10px;
+  margin: 0 10px;
   border: 1px solid #ccc;
 }
 
