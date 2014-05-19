@@ -241,19 +241,22 @@ ul.posts span {
 #post img {
   display: block;
   margin: 10px auto;
+  width: 100%;
+  max-width: 600px;
+  height: auto;
 }
 
 /* standard */
+
+#post ul, #post ol {
+  margin-left: 1.35em;
+}
 
 #post pre {
   border: 1px solid #ddd;
   background-color: #eef;
   padding: 0 .4em;
-}
-
-#post ul,
-#post ol {
-  margin-left: 1.35em;
+  overflow: scroll;
 }
 
 #post code {
@@ -267,27 +270,7 @@ ul.posts span {
   border: none;
 }
 
-/* terminal */
-
-#post pre.terminal {
-  border: 1px solid black;
-  background-color: #333;
-  color: white;
-}
-
-#post pre.terminal code {
-  background-color: #333;
-}
-
 #post blockquote {
   padding-left: 15px;
   border-left: 4px solid #eee;
-}
-
-#related {
-  margin-top: 2em;
-}
-
-#related h2 {
-  margin-bottom: 1em;
 }
