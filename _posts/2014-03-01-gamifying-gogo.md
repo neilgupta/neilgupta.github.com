@@ -11,7 +11,9 @@ Last weekend, I attended a [Gogo](http://gogoair.com) hackathon organized by [Mo
 
 To put it lightly, this portal sucks. There's no significant call-to-action. The large "buttons" for in-flight entertainment, eBay, and others look more like obnoxious ads that might as well say "Find single ladies in your area." It's not immediately clear what else I should do once reaching this page, and even if I manage to focus on the boring blue boxes, read the small text, and purchase a wifi pass, I leave that page and have no more connection to Gogo after that.
 
-I ended up working with Damaris Kroeber and Eric Trinh to see if we could improve Gogo's customer experience by gamifying the user onboarding flow. We spent the next couple hours interviewing Gogo executives to fully understand their business problems and goals. We then whiteboarded a complex user flow diagram, and decided to quickly mockup one possible flow.
+I ended up working with Damaris Kroeber and Eric Trinh to see if we could improve Gogo's customer experience by gamifying the user onboarding flow. We spent the next couple hours interviewing Gogo executives to fully understand their business problems and goals. One interesting fact was that Gogo has more users than it can handle already and is not worried about attracting new users. Instead, their problem lies in getting people to interact with the brand more and build brand loyalty. In particular, business users tend to be price insensitive and will use Gogo no matter what. Casual consumers, on the other hand, do not interact with Gogo at all. How can Gogo engage casual consumers while still catering to their primary business clients?
+
+With this in mind, we whiteboarded a complex user flow diagram, and decided to quickly mockup one possible flow.
 
 **The Redesign**
 
@@ -45,7 +47,7 @@ We chose 3 basic and well-known casino games, ranging from high to low strategy.
 
 In this slots example, each spin costs the user 20 seconds of wifi time to play. There are two possible outcomes: either the user gets lucky and wins minutes, or the user goes broke eventually and must buy more minutes to keep playing. This whole time, the user has continued to see and engage with Gogo's brand.
 
-From Gogo's perspective, this strategy costs very little (just 5 minutes of wifi access), but it provides an opportunity to hook customers with games or to give them a taste of internet access in the sky. It will be very tempting to purchase a wifi pass once you're already chatting with friends on Facebook, or in the middle of a heated poker round. More importantly, if you know that you'll get 5 minutes of wifi just for connecting your device to the network, you're also more likely to see Gogo's other services, like their in-flight movies, than if you never bother to even connect your device. From the cusomer's perspective, Gogo becomes a more friendly brand, rather than the company that charges too much for wifi.
+From Gogo's perspective, this strategy costs very little, but it provides an opportunity to hook customers with games or to give them a taste of internet access in the sky. It will be very tempting to purchase a wifi pass once you're already chatting with friends on Facebook, or in the middle of a heated poker round. More importantly, if you know that you'll get 5 minutes of wifi just for connecting your device to the network, you're also more likely to see Gogo's other services, like their in-flight movies, than if you never bother to even connect your device. From the cusomer's perspective, Gogo becomes a more friendly brand, rather than the company that charges too much for wifi.
 
 There are of course still gaps and issues that need to be worked out, but for a few hours of work, I think this is an interesting take on the Gogo onboarding flow. The audience seemed to agree because we won the Peer Choice award[^2] at the hackathon.
 
