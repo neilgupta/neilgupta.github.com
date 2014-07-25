@@ -5,15 +5,13 @@ tags: design
 location: Chicago
 ---
 
-Last weekend, I attended a [Gogo](http://gogoair.com) hackathon organized by [Monkeybars](http://monkeybars.cc). Although most of the time was spent playing [board games](http://www.amazon.com/Hasbro-JUN118204-Risk-Legacy/dp/B005J146MI), watching movies, and just hanging out, I did also end up forming a team with Damaris Kroeber and Eric Trinh. Eric and I are both software developers who write code all day, and Damaris is a theoretical physicist who does whatever theoretical physicists do all day (apparently this involves Python). In other words, none of us wanted to spend our weekend coding for Gogo for free.
-
-But then we saw the following screenshot of Gogo's in-flight portal on a Delta flight.
+Last weekend, I attended a [Gogo](http://gogoair.com) hackathon organized by [Monkeybars](http://monkeybars.cc). Most of my time was spent playing [board games](http://www.amazon.com/Hasbro-JUN118204-Risk-Legacy/dp/B005J146MI), watching movies, and just hanging out, and I did not intend to actually compete in the hackathon. But then I saw the following screenshot of Gogo's in-flight portal on a Delta flight.
 
 [![Delta In-flight Portal](/post_files/gogo/delta_thumb.jpg)](/post_files/gogo/delta.jpg)
 
 To put it lightly, this portal sucks. There's no significant call-to-action. The large "buttons" for in-flight entertainment, eBay, and others look more like obnoxious ads that might as well say "Find single ladies in your area." It's not immediately clear what else I should do once reaching this page, and even if I manage to focus on the boring blue boxes, read the small text, and purchase a wifi pass, I leave that page and have no more connection to Gogo after that.
 
-We decided to see if we could improve Gogo's customer experience by gamifying the user onboarding flow, but first we needed to simplify their busy landing page.
+I ended up working with Damaris Kroeber and Eric Trinh to see if we could improve Gogo's customer experience by gamifying the user onboarding flow. We spent the next couple hours interviewing Gogo executives to fully understand their business problems and goals. We then whiteboarded a complex user flow diagram, and decided to quickly mockup one possible flow.
 
 **The Redesign**
 
@@ -51,5 +49,5 @@ From Gogo's perspective, this strategy costs very little (just 5 minutes of wifi
 
 There are of course still gaps and issues that need to be worked out, but for a few hours of work, I think this is an interesting take on the Gogo onboarding flow. The audience seemed to agree because we won the Peer Choice award[^2] at the hackathon.
 
-[^1]: This button can be customized based on Gogo's business goals per flight. For example, on busy flights where the wifi usage is already maxed out, this CTA can be changed to encourage users to check out Gogo's movie library or games instead.
-[^2]: Peer Choice was determined by votes from other participants. We also received honorary mention by the judges, who liked our presentation (which had more screenshots than shown here) but could not pick us for first place because we didn't actually implement anything.
+[^1]: This button would be customized based on Gogo's business goals per flight. For example, on busy flights where the wifi usage is already maxed out, this CTA could encourage users to check out Gogo's movie library or games instead.
+[^2]: Peer Choice was determined by votes from other participants. We also received honorary mention by the judges, who liked our presentation (which had more screenshots than shown here) but could not pick us for first place because we didn't actually code anything.
