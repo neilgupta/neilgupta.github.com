@@ -13,7 +13,7 @@ To put it lightly, this portal sucks. There's no significant call-to-action. The
 
 I ended up working with a friend to see if we could improve Gogo's customer experience by gamifying the user onboarding flow. We spent the next couple hours interviewing Gogo executives to fully understand their business problems and goals. One interesting fact was that Gogo has more users than it can handle already and is not worried about attracting new users. Instead, their problem lies in getting people to interact with the brand more and build brand loyalty. In particular, business users tend to be price insensitive and will use Gogo no matter what. Casual consumers, on the other hand, do not interact with Gogo at all. How can Gogo engage casual consumers while still catering to their primary business clients?
 
-With this in mind, we whiteboarded a complex user flow diagram, and decided to quickly mockup one possible flow.
+With this in mind, we whiteboarded a user flow diagram, and decided to quickly mockup one possible flow.
 
 **The Redesign**
 
