@@ -232,7 +232,7 @@ ul.posts span {
 /*
 /*****************************************************************************/
 
-#portfolio, #portfolio p#hireme, #portfolio p#footer {
+#portfolio, #portfolio p.centered {
   text-align: center;
 }
 
@@ -289,7 +289,7 @@ ul.posts span {
   margin-left: 40px;
 }
 
-#portfolio #casestudy {
+#portfolio a.casestudy {
   display: block;
   font-weight: bold;
   border: 2px solid #0069d6;
@@ -301,7 +301,7 @@ ul.posts span {
   margin: 0 auto;
 }
 
-#portfolio a#casestudy:hover {
+#portfolio a.casestudy:hover {
   border: 2px solid red;
 }
 
@@ -311,6 +311,7 @@ p#footer {
   border-top: 1px solid #e6e6e6;
   padding-top: 25px;
   margin-top: 40px;
+  text-align: center;
 }
 
 /*****************************************************************************/
