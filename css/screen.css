@@ -222,6 +222,97 @@ ul.posts span {
   border: 1px solid #ccc;
 }
 
+.rounded {
+  border-radius: 50%;
+}
+
+/*****************************************************************************/
+/*
+/* Portfolio
+/*
+/*****************************************************************************/
+
+#portfolio, #portfolio p#hireme, #portfolio p#footer {
+  text-align: center;
+}
+
+#portfolio p, #portfolio ol {
+  text-align: left;
+  padding: 10px;
+  color: #666666;
+}
+
+#portfolio #hey_im_neil:hover {
+  -webkit-animation: bounce 1s;
+  animation: bounce 1s;
+}
+
+#portfolio h1 {
+  font-size: 32px;
+  margin-top: 10px;
+}
+
+#portfolio h2 {
+  font-size: 22px;
+  margin-top: 40px;
+  font-weight: normal;
+  border-top: 1px solid #e6e6e6;
+  padding-top: 25px;
+}
+
+#portfolio ul {
+  margin: 20px 0;
+}
+
+#portfolio ul li {
+  list-style: none;
+  display: inline-block;
+}
+
+#portfolio ul li img {
+  display: block;
+  margin: 5px auto;
+}
+
+#portfolio ul#what_i_do li {
+  min-width: 75px;
+  width: 25%;
+}
+#portfolio ul#how_i_work li {
+  margin: 7px 0;
+  min-width: 90px;
+  width: 20%;
+  text-overflow:ellipsis;
+}
+
+#portfolio ol {
+  margin-left: 40px;
+}
+
+#portfolio #casestudy {
+  display: block;
+  font-weight: bold;
+  border: 2px solid #0069d6;
+  border-radius: 40px;
+  width: 250px;
+  height: 50px;
+  line-height: 50px;
+  font-size: 16px;
+  margin: 0 auto;
+}
+
+#portfolio a#casestudy:hover {
+  border: 2px solid red;
+}
+
+p#footer {
+  font-size: 70%;
+  color: #666;
+  border-top: 1px solid #e6e6e6;
+  padding-top: 25px;
+  margin-top: 40px;
+}
+
 /*****************************************************************************/
 /*
 /* Posts
@@ -274,3 +365,5 @@ ul.posts span {
   padding-left: 15px;
   border-left: 4px solid #eee;
 }
+
+.animated{-webkit-animation-duration:1s;animation-duration:1s;-webkit-animation-fill-mode:both;animation-fill-mode:both}.animated.infinite{-webkit-animation-iteration-count:infinite;animation-iteration-count:infinite}.animated.hinge{-webkit-animation-duration:2s;animation-duration:2s}@-webkit-keyframes bounce{0%,100%,20%,53%,80%{-webkit-transition-timing-function:cubic-bezier(0.215,.61,.355,1);transition-timing-function:cubic-bezier(0.215,.61,.355,1);-webkit-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}40%,43%{-webkit-transition-timing-function:cubic-bezier(0.755,.050,.855,.060);transition-timing-function:cubic-bezier(0.755,.050,.855,.060);-webkit-transform:translate3d(0,-30px,0);transform:translate3d(0,-30px,0)}70%{-webkit-transition-timing-function:cubic-bezier(0.755,.050,.855,.060);transition-timing-function:cubic-bezier(0.755,.050,.855,.060);-webkit-transform:translate3d(0,-15px,0);transform:translate3d(0,-15px,0)}90%{-webkit-transform:translate3d(0,-4px,0);transform:translate3d(0,-4px,0)}}@keyframes bounce{0%,100%,20%,53%,80%{-webkit-transition-timing-function:cubic-bezier(0.215,.61,.355,1);transition-timing-function:cubic-bezier(0.215,.61,.355,1);-webkit-transform:translate3d(0,0,0);-ms-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}40%,43%{-webkit-transition-timing-function:cubic-bezier(0.755,.050,.855,.060);transition-timing-function:cubic-bezier(0.755,.050,.855,.060);-webkit-transform:translate3d(0,-30px,0);-ms-transform:translate3d(0,-30px,0);transform:translate3d(0,-30px,0)}70%{-webkit-transition-timing-function:cubic-bezier(0.755,.050,.855,.060);transition-timing-function:cubic-bezier(0.755,.050,.855,.060);-webkit-transform:translate3d(0,-15px,0);-ms-transform:translate3d(0,-15px,0);transform:translate3d(0,-15px,0)}90%{-webkit-transform:translate3d(0,-4px,0);-ms-transform:translate3d(0,-4px,0);transform:translate3d(0,-4px,0)}}.bounce{-webkit-animation-name:bounce;animation-name:bounce;-webkit-transform-origin:center bottom;-ms-transform-origin:center bottom;transform-origin:center bottom}
