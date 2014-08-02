@@ -55,7 +55,7 @@ Determine the most important tasks by usage frequency and prioritize them when d
 
 Illustrate typical use case scenarios of when and why the user will use the product.
 
-[![Storyboard](/post_files/process/storyboard.png)](/post_files/process/storyboard.png)
+[![Storyboard](/post_files/process/storyboard.jpg)](/post_files/process/storyboard.jpg)
 
 ## User Flow
 
@@ -86,5 +86,7 @@ High-fidelity mockups to flesh out the visual design.
 Build the most basic version of the product possible that can still be used by customers to solve the problem. If you are not embarassed by your MVP, you worked on it too long.
 
 ![Code](/post_files/process/code.jpg)
+
+*All examples shown from Problem Statement to Mockup are based on a friend's awesome startup, [Strados](http://strados.co).*
 
 [&laquo; Back to Portfolio](/portfolio/)
