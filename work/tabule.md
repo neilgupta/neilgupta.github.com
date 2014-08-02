@@ -1,7 +1,9 @@
 ---
-layout: base
-title: UX Documentation for Tabule
+layout: markdown
+title: Tabule Case Study
 ---
+
+[&laquo; Back to Portfolio](/portfolio/)
 
 # Tabule Case Study
 
