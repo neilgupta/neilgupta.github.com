@@ -9,7 +9,7 @@ title: My Design Process
 
 ## Setup
 
-Get a whiteboard if working in a group or a notebook if solo. Expect it to get messy.
+<p class="process-desc">Get a whiteboard if working in a group or a notebook if solo. Expect it to get messy.</p>
 
 ![My whiteboard](/post_files/process/whiteboard.jpg)
 
@@ -17,73 +17,75 @@ Get a whiteboard if working in a group or a notebook if solo. Expect it to get m
 
 ## Problem Statement
 
-Understand the problem being solved. Without a clear problem, you end up creating a solution in search of a problem.
+<p class="process-desc">Understand the problem being solved. Without a clear problem, you end up creating a solution in search of a problem.</p>
 
 > Cars are black boxes for most people. In particular, the check engine light is a car owner's worst nightmare. It is an enigma that could mean expensive engine work or just that the gas cap is loose.
 
 ## Target User
 
-Choose a specific target user to design for. You'll never make everybody happy, but you can make some people love you. Focus on those people.
+<p class="process-desc">Choose a specific target user to design for. You'll never make everybody happy, but you can make some people love you. Focus on those people.</p>
 
 > Our target users are young professionals who have bought their first car and can't afford unforeseen expenses on it. They do not know anything about car engines but have smartphones.
 
 ## User Research
 
-Figure out what the target user does now to solve the problem. This step involves talking to prospective users and collecting responses. Analyze the data to find patterns.
+<p class="process-desc">How do users currently solve the problem? This step involves talking to prospective users and collecting responses. Analyze the data to find patterns.</p>
 
 > If the check engine light turns on, users generally ignore the problem for as long as possible and pray the car keeps working. Eventually they take their car to a mechanic for a diagnosis and quote. They have to trust the mechanic because they don't know what's reasonable.
 
 ## Task Analysis
 
-Codify user behavior and thought process.
+<p class="process-desc">Codify user behavior and thought process.</p>
 
 [![Task Analysis](/post_files/process/task_analysis.png)](/post_files/process/task_analysis.png)
 
 ## Competitive Analysis
 
-Assess the strengths and weaknesses of competitors.
+<p class="process-desc">Assess the strengths and weaknesses of competitors.</p>
 
 [![Competitive Analysis](/post_files/process/competitors.png)](/post_files/process/competitors.png)
 
 ## Feature Analysis
 
-Determine the most important tasks by usage frequency and prioritize them when designing the wireframes and choosing features for the MVP.
+<p class="process-desc">Prioritize the most important tasks by usage frequency.</p>
 
 [![Feature Analysis](/post_files/process/feature.png)](/post_files/process/feature.png)
 
 ## Storyboard
 
-Illustrate typical use case scenarios of when and why the user will use the product.
+<p class="process-desc">Illustrate typical use case scenarios of when and why the user will use the product.</p>
 
 [![Storyboard](/post_files/process/storyboard.jpg)](/post_files/process/storyboard.jpg)
 
 ## User Flow
 
-Visualize how the product will be used from start to finish.
+<p class="process-desc">Visualize how the product will be used from start to finish.</p>
 
 [![User Flow](/post_files/process/user_flow.png)](/post_files/process/user_flow.png)
 
 ## Wireframe
 
-Low-fidelity mockups of layout. The primary goal is to work on UX, the visual design will come later.
+<p class="process-desc">Low-fidelity mockups to determine layout and UX. The visual design will come later.</p>
 
 [![Wireframe](/post_files/process/wireframe.png)](/post_files/process/wireframe.png)
 
 ## Rapid Prototyping
 
-Use the wireframes and [Marvel](http://marvelapp.com) to create a low-fidelity prototype suitable for user testing.
+<p class="process-desc">Use the wireframes to create a low-fidelity prototype suitable for user testing.</p>
 
 [![Marvel](/post_files/process/marvel.png)](/post_files/process/marvel.png)
 
+<p class="caption">I like to use <a href="https://marvelapp.com" target="_blank">Marvel</a> for this step.</p>
+
 ## Mockup
 
-High-fidelity mockups to flesh out the visual design.
+<p class="process-desc">High-fidelity mockups to flesh out the visual design.</p>
 
 [![Mockup](/post_files/process/mockup.png)](/post_files/process/mockup.png)
 
 ## Minimum Viable Product
 
-Build the most basic version of the product possible that can still be used by customers to solve the problem. If you are not embarassed by your MVP, you worked on it too long.
+<p class="process-desc">Build the most basic version of the product possible that can still be used by customers to solve the problem. If you are not embarassed by your MVP, you worked on it too long.</p>
 
 ![Code](/post_files/process/code.jpg)
 
