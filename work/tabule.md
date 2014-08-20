@@ -113,7 +113,7 @@ More students were now able to figure out what to do with the sticky note, but i
 
 <p class="caption">Improved flow for when user forgets to write a due date.</p>
 
-Tapping the date box shows a date picker and tapping the course box shows a list of courses the student is currently enrolled in. Selecting a date or a course from these UI's updates the sticky note text so that the user sees how to enter this data faster next time. This interface has been very effective at helping students add their assignments as soon as their assigned.
+Tapping the date box shows a date picker and tapping the course box shows a list of courses the student is currently enrolled in. Selecting a date or a course from these UI's updates the sticky note text so that the user sees how to enter the data faster next time. This interface has been very effective at helping students add their assignments as soon as their assigned.
 
 ### Viewing Assignments
 
