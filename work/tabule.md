@@ -37,7 +37,7 @@ The next iteration added the ability for students to ask questions directly from
 
 In addition to the new student-facing features, I also redesigned the quizzing workflow for teachers. I created a card-based system that was designed to be as easy as [Pivotal Tracker](http://pivotaltracker.com) or [Trello](http://trello.com). Teachers created quiz cards and tagged them for easy searching. Before each class, they dragged the relevant questions into the queue and then asked them during class.
 
-[![Tabule v2 for Students](/post_files/work/tabule/iteration2_teacher.png)](/post_files/work/tabule/iteration2_teacher.png)
+[![Tabule v2 for Students](/post_files/work/tabule/iteration2_teacher.jpg)](/post_files/work/tabule/iteration2_teacher.jpg)
 
 <p class="caption">The teacher interface, June 2011.</p>
 
@@ -49,7 +49,7 @@ The third iteration dropped the note-taking functionality, and doubled down on a
 > 
 > *- Professor Matt Bauer, IIT CS Department*
 
-[![Tabule v3](/post_files/work/tabule/iteration3.png)](/post_files/work/tabule/iteration3.png)
+[![Tabule v3](/post_files/work/tabule/iteration3.jpg)](/post_files/work/tabule/iteration3.jpg)
 
 <p class="caption">Tabule, January 2012.</p>
 
@@ -103,25 +103,17 @@ Of course, designing the interface to be intuitive turned out to be harder than 
 
 However, it was not immediately clear what to do with the single text input. Students would enter the assignment title and then get confused how to enter the due date. I changed the text field to look like a sticky note instead with an example assignment as a placeholder to guide users.
 
-<a href="/post_files/work/tabule/12_add.png"><img class="img320" alt="Tabule for iPhone v1.2" src="/post_files/work/tabule/12_add.png" /></a>
+<a href="/post_files/work/tabule/12_add.jpg"><img class="img320" alt="Tabule for iPhone v1.2" src="/post_files/work/tabule/12_add.jpg" /></a>
 
 <p class="caption">Adding Assignments in Tabule v1.2, August 2013.</p>
 
 More students were now able to figure out what to do with the sticky note, but it wasn't perfect. To make the input even more intuitive, I removed the live preview and instead showed the three components that make up an assignment: course, title, and date. As the user enters their note, each of the components is filled in. If one of the components is missing, it turns red to catch the user's attention. Users can then either add more text to the sticky note, or tap one of the components to use a task-specific interface. I also changed the yellow background to white in order to match iOS 7's flat, less skeuomorphic aesthetic.
 
-<a href="/post_files/work/tabule/20_add.png"><img class="img320" alt="Tabule for iPhone v2.0" src="/post_files/work/tabule/20_add.png" /></a>
+[![Adding Assignments](/post_files/work/tabule/add_assignment_process.png)](/post_files/work/tabule/add_assignment_process.png)
 
-<p class="caption">Adding Assignments in Tabule v2.0, January 2014.</p>
+<p class="caption">Improved flow for when user forgets to write a due date.</p>
 
-<a href="/post_files/work/tabule/20_add_missing_date.png"><img class="img320" alt="Tabule for iPhone v2.0" src="/post_files/work/tabule/20_add_missing_date.png" /></a>
-
-<p class="caption">User has not entered a due date for this assignment.</p>
-
-<a href="/post_files/work/tabule/20_add_date_picker.png"><img class="img320" alt="Tabule for iPhone v2.0" src="/post_files/work/tabule/20_add_date_picker.png" /></a>
-
-<p class="caption">Tapping the due date box shows a date picker.</p>
-
-Tapping the date box shows a date picker for the due date and tapping the course box shows a list of courses the student is currently enrolled in. This interface has been very effective at helping students add their assignments as soon as their assigned.
+Tapping the date box shows a date picker and tapping the course box shows a list of courses the student is currently enrolled in. This interface has been very effective at helping students add their assignments as soon as their assigned.
 
 ### Viewing Assignments
 
@@ -145,7 +137,7 @@ As mentioned above, students only care about upcoming assignments, so showing al
 
 The algorithm worked on a point-based system, so I designed an "Easy" to "Hard" scale to set the difficulty of each assignment.
 
-<a href="/post_files/work/tabule/difficulty.png"><img class="img320" alt="Setting difficulty" src="/post_files/work/tabule/difficulty.png" /></a>
+<a href="/post_files/work/tabule/difficulty.jpg"><img class="img320" alt="Setting difficulty" src="/post_files/work/tabule/difficulty.jpg" /></a>
 
 <p class="caption">Mockup of setting difficulty when adding assignments.</p>
 
