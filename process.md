@@ -63,6 +63,8 @@ title: My Design Process
 
 [![User Flow](/post_files/process/user_flow.png)](/post_files/process/user_flow.png)
 
+<p class="caption">Click the image to enlarge.</p>
+
 ## Wireframe
 
 <p class="process-desc">Low-fidelity mockups to determine layout and UX. The visual design will come later.</p>

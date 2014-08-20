@@ -344,6 +344,15 @@ p#footer {
   height: auto;
 }
 
+#post img.img500, #markdown img.img500 {
+  max-width: 500px;
+}
+
+#post img.img320, #markdown img.img320 {
+  max-width: 320px;
+  border: 1px solid #ccc;
+}
+
 /* standard */
 
 #post ul, #post ol {
