@@ -11,23 +11,23 @@ Sometimes I open links on the screen in my pocket, sometimes I reply to messages
 
 Luckily, Apple has perfectly positioned itself to make this vision a reality with its hardware and software.
 
-## WatchOS 2
+# WatchOS 2
 
 WatchOS 2, which releases in a few months, adds native apps to the Watch and enables them to access the wifi network directly, meaning the Watch will already be independent of the iPhone when on wifi soon. It will only require tethering to the iPhone for a cellular connection. Of course, adding a SIM card to a watch is ridiculous...
 
-## Apple SIM
+# Apple SIM
 
 The iPad Air 2 and iPad mini 3 include the [Apple SIM card](http://www.theverge.com/2014/10/16/6988695/apples-ipad-air-2-lets-you-pick-from-multiple-wireless-carriers-with-one-SIM), a built-in SIM card the replaces the need for carrier-specific cards. Instead, all carrier selection is done via software. This is crucial for an eventual Apple Watch that includes cellular functionality because a removeable SIM card in a watch is not feasible. However, a software-only SIM card means we can choose a carrier when we power up our new Watch and break our shackle to the tethered iPhone.
 
-## Continuity
+# Continuity
 
 [Continuity](https://www.apple.com/ios/whats-new/continuity/) means my phone calls and SMS messages are no longer tied to my cell phone. All my devices receive my calls and texts, so I don't care which device I'm using. With iOS 9, [my phone doesn't even have to be nearby](http://9to5mac.com/2015/06/10/t-mobile-ios-9-cellular-continuity-iphone-ipad-mac/) for phone calls to be shared across devices.
 
-## Handoff
+# Handoff
 
 Technically a sub-feature of Continuity, Handoff enables the Watch to act as a switchboard. Everything can come through the Watch, but any of my devices can seamlessly pick up the task, meaning I can jump from device to device without any thought.
 
-##  iCloud
+#  iCloud
 
 As Apple continues to subvert the local filesystem and move everything into its iCloud containers, all of my devices gain consistent access to my data, so that once again, I never have to worry about which device I'm picking up, other than that it has the best input interface for my current task. All my music, photos, documents, passwords, browser tabs, contacts, notes, mail, etc are all available everywhere, completely agnostic of device, with no action on my part.
 
