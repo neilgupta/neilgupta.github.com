@@ -19,7 +19,7 @@ Do **not** do any of that.
 
 I tried following the above process at first, and it is every bit as painful as it sounds. But with a little bit of exploration and luck, I found a better way to acquire a DUNS number and open my developer account within a week:
 
-1. [Use Apple's DUNS lookup tool](https://developer.apple.com/ios/enroll/dunsLookupForm.action) to search for your business' number, even if you know you don't have one.
+1. [Use Apple's DUNS lookup tool](https://developer.apple.com/program/enroll/dunsLookupForm.action) to search for your business' number, even if you know you don't have one.
 2. Once you do the lookup, there will be a link to submit a request for a DUNS number to D&B on your behalf. This will handle everything automatically, so you don't have to touch D&B's website.
 3. Within 5 days, you will get a call from D&B, asking for more information. This is where you will answer a bunch of questions about your company over the phone.
 4. Within 24 hours after this call, you will receive your DUNS number by email. 
