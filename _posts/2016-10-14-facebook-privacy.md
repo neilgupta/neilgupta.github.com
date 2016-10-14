@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "The Man Who Stood Up To Facebook"
-tags: link
+tags: links
+location: Chicago
 ---
 
 Fascinating read from [NPR](http://www.npr.org/sections/alltechconsidered/2016/10/13/497820170/the-man-who-stood-up-to-facebook):
