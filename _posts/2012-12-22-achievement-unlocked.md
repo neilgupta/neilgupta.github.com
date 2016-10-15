@@ -19,7 +19,7 @@ No appeals process, no "reply to let us know that this accusation is about as le
 
 The video is blocked, and apparently my account has been penalized. I am assuming they are referring to their "three strikes" policy, where if I get 2 more such bogus claims against me, my account and all uploaded videos will be deleted.
 
-Now in this particular case, I don't actually care. I don't even know the password to my YouTube account and haven't used it in years. I probably would've never noticed that they deleted my entire account, had they not emailed me. The only reason I had left the content on YouTube was to have a historical record of them for nostalgic purposes.
+Now in this particular case, I don't actually care. I haven't used my YouTube account in years and don't even know the password anymore. I probably wouldn't have even noticed, had they not emailed me. The only reason I had left the content on YouTube was to have a historical record of them for nostalgic purposes.
 
 However, I suspect this kind of behavior happens a lot. I remember last year's debacle with [Universal Media taking down Megaupload's promo video](http://news.cnet.com/8301-27080_3-57344570-245/mystery-surrounds-universals-takedown-of-megaupload-youtube-video/) using the same flawed DMCA process. What's more frustrating here though is that this was a purely educational video that has helped at least a handful of people over the years. I believe Moodle was even linking to it from their support site at one point.
 

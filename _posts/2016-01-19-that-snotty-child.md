@@ -11,4 +11,4 @@ From **[Big banks brace for oil loans to implode](http://money.cnn.com/2016/01/1
 
 > For instance, Wells Fargo (WFC) is sitting on more than $17 billion in loans to the oil and gas sector. The bank is setting aside $1.2 billion in reserves to cover losses because of the "continued deterioration within the energy sector."
 
-This is like watching a kid repeatedly run into your patio door. It might be forgivable at first but eventually you have to do something about it. You might try putting warning signs on the glass and rules to tell the snotty kid to pay attention, but what do you do when that also fails?
+This is like watching a kid repeatedly run into your patio door. It might be forgivable at first but eventually you have to do something about it. You might try putting warning signs on the glass and rules to tell the kid to pay attention, but what do you do when that also fails?

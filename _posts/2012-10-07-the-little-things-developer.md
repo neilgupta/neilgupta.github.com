@@ -5,7 +5,7 @@ tags: development
 location: Chicago
 ---
 
-Every developer has a list of tools and tweaks that they build up over time to increase their productivity. Here is a list of the little things I find useful to install everytime I set up a new machine. For reference, I am running Mac OS X 10.8 Mountain Lion, so many of these tools may be specific to that platform. I will update this list as it changes.
+Every developer has a list of tools and tweaks that they build up over time to increase their productivity. Here is a list of the little things I find useful to install everytime I set up a new machine. For reference, I am running Mac OS X 10.8 Mountain Lion, so many of these tools may be specific to that platform.
 
 **QuickLook**
 

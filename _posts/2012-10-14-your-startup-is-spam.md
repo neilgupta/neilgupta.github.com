@@ -15,4 +15,4 @@ I woke up this morning to an email from Google+ asking me if I am going to some 
 
 We have now changed all notification emails for Tabule to be from the person who triggered the notification, instead of everything coming from Tabule. Now when you see an email in your inbox, you think of the person who sent it, not Tabule. This actually helps us more seamlessly integrate Tabule into your existing workflow, since you are now more likely to just respond to the notification email as if it were a direct email and post back to Tabule.
 
-Listen to every bit of feedback, even if it's something extremely negative like "your app is spam." You never know what will lead you to learn some new insight about about your app and users.
+Listen to every bit of feedback, even if it's something extremely negative like "your app is spam." You never know what will lead you to learn some new insight about your app and users.
