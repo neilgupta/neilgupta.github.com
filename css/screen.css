@@ -244,7 +244,7 @@ ul.posts span {
 /*
 /*****************************************************************************/
 
-#portfolio, #portfolio p.centered {
+#portfolio, p.centered {
   text-align: center;
 }
 
@@ -351,6 +351,21 @@ p#footer {
 #post img.img320, #markdown img.img320 {
   max-width: 320px;
   border: 1px solid #ccc;
+}
+
+img.photograph {
+  margin-top: 40px !important;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+img.photograph:hover {
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.25);
+}
+
+.twitter-tweet {
+  margin: 0 auto;
+  margin-top: 30px !important;
 }
 
 /* standard */
