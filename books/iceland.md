@@ -24,5 +24,5 @@ Here's some more content that couldn't fit in a book:
 
 * [The full Iceland album, including videos](https://www.icloud.com/sharedalbum/#B0iJ0DiRHJtyz4O)
 * [The scenic album](https://www.icloud.com/sharedalbum/#B0i5ON9t38rPkO)
-* [Our review of Iceland, including the full itinerary]()
+* [Our review of Iceland, including the full itinerary](/2017/09/25/iceland/)
 

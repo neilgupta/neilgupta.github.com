@@ -4,6 +4,7 @@ title: The Decentralized Web is Coming
 tags: thoughts
 location: Chicago
 ---
+
 There's been a lot of talk recently about making a decentralized web that is more secure and resistant to government control. Here's why I think this is the perfect timing for this shift in thinking. 
 
 # Privacy
