@@ -11,7 +11,7 @@ title: Iceland
 
 Our trusty sidekick, the Hungry Hippo, got his name when he ate our parking pass that fell into an inexplicable gap between the front dash and windshield. Although the Hippo was an important part of our trip, he didn't make it into the book, so here he is in all his glory.
 
-<a href="/post_files/iceland/IMG_0180.JPG" title="View larger image"><img src="/post_files/iceland/IMG_0180_thumbnail.jpeg" class="photograph img500" alt="Hungry Hippo in Iceland" /></a>
+<a href="/post_files/iceland/IMG_0180.jpg" title="View larger image"><img src="/post_files/iceland/IMG_0180_thumbnail.jpeg" class="photograph img500" alt="Hungry Hippo in Iceland" /></a>
 <p class="caption">The Hungry Hippo waits for us in front of a glacier tongue.</p>
 
 ## Fun Fact
