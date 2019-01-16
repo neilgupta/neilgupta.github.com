@@ -13,13 +13,13 @@ Apple recently switched to requiring a DUNS number to open a company developer a
 
 As a startup, you probably don't have a DUNS number, since they are primarily used when doing business with the government. A quick search will bring up plenty of complaints about the DUNS process, with most people wondering why Apple would partner with such a shady company. There is a lot of confusion and questions surrounding the process, primarily "how long does it take?" and "how much should it cost?"
 
-The [standard process](https://developer.apple.com/support/ios/D-U-N-S.html) for acquiring a DUNS number is to go to the D&B website, figure out how to navigate their site, fill out 10 pages of complicated, unnecessary information about your company, and then choose to wait 30 days for a free DUNS number or pay $50 to get it in 5 days. After you get your number, you have to [wait up to another 14 days](http://www.quora.com/Apple-Developer/What-is-the-schedule-Apple-uses-to-refresh-DUNS-numbers-in-their-system) for [Apple to sync their database](http://apple-duns.weebly.com) with DUNS, and then you can *finally* sign up account.
+The [standard process](https://developer.apple.com/support/D-U-N-S/) for acquiring a DUNS number is to go to the D&B website, figure out how to navigate their site, fill out 10 pages of complicated, unnecessary information about your company, and then choose to wait 30 days for a free DUNS number or pay $50 to get it in 5 days. After you get your number, you have to [wait up to another 14 days](http://www.quora.com/Apple-Developer/What-is-the-schedule-Apple-uses-to-refresh-DUNS-numbers-in-their-system) for [Apple to sync their database](http://apple-duns.weebly.com) with DUNS, and then you can *finally* sign up account.
 
 Do **not** do any of that.
 
 I tried following the above process at first, and it is every bit as painful as it sounds. But with a little bit of exploration and luck, I found a better way to acquire a DUNS number and open my developer account within a week:
 
-1. [Use Apple's DUNS lookup tool](https://developer.apple.com/program/enroll/dunsLookupForm.action) to search for your business' number, even if you know you don't have one.
+1. [Use Apple's DUNS lookup tool](https://developer.apple.com/enroll/duns-lookup/) to search for your business' number, even if you know you don't have one.
 2. Once you do the lookup, there will be a link to submit a request for a DUNS number to D&B on your behalf. This will handle everything automatically, so you don't have to touch D&B's website.
 3. Within 5 days, you will get a call from D&B, asking for more information. This is where you will answer a bunch of questions about your company over the phone.
 4. Within 24 hours after this call, you will receive your DUNS number by email. 
@@ -40,3 +40,5 @@ While I understand Apple's desire to partner with D&B, I hope that Apple will at
 *Note:* I actually had to fill out Apple's DUNS lookup form twice. After the first time, I got an email from DUNS after 5 days telling me my verification failed. I called D&B to find out why, and after some phone tag, a representative told me they weren't able to reach me for verification (I never got a call). He told me to just fill out the form again, which I did, and I got a call and number less than 5 days later.
 
 **Update:** Apparently, [Enterprise developer accounts](https://developer.apple.com/programs/ios/enterprise/) ($300/year) have always required a DUNS number, so this is not uncharted territory for Apple. However, requiring it for regular company accounts is new, and that's where the problem is. Most companies applying for an Enterprise account probably already had a DUNS number, or at least had the resources to acquire one quickly without Apple's help. This is not true for the hundreds of startups making iOS apps that have never heard of a DUNS number before. (Thanks [@alanzeino](https://twitter.com/alanzeino/status/286384362872786944) for the heads up.)
+
+**Update (2019)**: I just came back to this post to apply for a new DUNS number 6 years later, and looks like Apple followed my advice and updated their [DUNS info page](https://developer.apple.com/support/D-U-N-S/) with the above steps! 🥳
