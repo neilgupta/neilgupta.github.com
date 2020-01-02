@@ -1,0 +1,509 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Neil's Timeline</title>
+    <meta name="author" content="Neil Gupta" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-21028530-1', 'metamorphium.com');
+      ga('send', 'pageview');
+    </script>
+
+    <style>
+        body {
+          color: #768390;
+          background: #FFF;
+          font-family: sans-serif;
+          padding: 0;
+          margin: 0;
+          line-height: 1.6em;
+        }
+
+        h1, h2, h3, h4, h5, h6 {
+          color: #3D4351;
+          margin-top: 0;
+        }
+        h1 {
+          margin-top: 1em;
+        }
+
+        a {
+          color: #FF6B6B;
+          text-decoration: none;
+        }
+        a:hover {
+          color: #ff9a9a;
+        }
+
+        .container-fluid {
+          padding: 0 4em 4em 4em;
+        }
+
+        .header {
+          margin-bottom: 60px;
+          padding: 3em 0;
+          border-bottom: 1px solid #E4EAEC;
+        }
+        .header p {
+          font-size: 16px;
+        }
+
+        .timeline {
+          list-style: none;
+          margin: 0;
+          padding: 0;
+          width: 100%;
+        }
+        .timeline h1, .timeline h2, .timeline h3, .timeline h4, .timeline h5, .timeline h6 {
+          line-height: inherit;
+        }
+
+        .timeline h3 {
+          font-weight: normal;
+        }
+
+        /*----- TIMELINE ITEM -----*/
+        .timeline-item {
+          padding-left: 40px;
+          position: relative;
+        }
+        .timeline-item:last-child {
+          padding-bottom: 0;
+        }
+
+        /*----- TIMELINE INFO -----*/
+        .timeline-info {
+          font-size: 12px;
+          font-weight: 700;
+          letter-spacing: 3px;
+          margin: 0 0 .5em 0;
+          text-transform: uppercase;
+          white-space: nowrap;
+        }
+
+        /*----- TIMELINE MARKER -----*/
+        .timeline-marker {
+          position: absolute;
+          top: 0;
+          bottom: 0;
+          left: 0;
+          width: 15px;
+        }
+        .timeline-marker:before {
+          background: #FF6B6B;
+          border-radius: 100%;
+          content: "";
+          display: block;
+          height: 15px;
+          position: absolute;
+          top: 4px;
+          left: 0;
+          width: 15px;
+          transition: background 0.3s ease-in-out, border 0.3s ease-in-out;
+        }
+        .timeline-marker:after {
+          content: "";
+          width: 3px;
+          background: #CCD5DB;
+          display: block;
+          position: absolute;
+          top: 24px;
+          bottom: 0;
+          left: 6px;
+        }
+        .timeline-item:last-child .timeline-marker:after {
+          content: none;
+        }
+
+        .timeline-item:not(.period):hover .timeline-marker:before {
+          background: #ff0000;
+        }
+
+        .timeline-item.inactive .timeline-marker:before {
+          background: #e0e0e0;
+        }
+
+        /*----- TIMELINE CONTENT -----*/
+        .timeline-content {
+          padding-bottom: 40px;
+        }
+        .timeline-content p:last-child {
+          margin-bottom: 0;
+        }
+
+        /*----- TIMELINE PERIOD -----*/
+        .period {
+          padding: 0;
+        }
+        .period .timeline-info {
+          display: none;
+        }
+        .period .timeline-marker:before {
+          background: transparent;
+          content: "";
+          width: 15px;
+          height: auto;
+          border: none;
+          border-radius: 0;
+          top: 0;
+          bottom: 30px;
+          position: absolute;
+          border-top: 3px solid #CCD5DB;
+          border-bottom: 3px solid #CCD5DB;
+        }
+        .period .timeline-marker:after {
+          content: "";
+          height: 32px;
+          top: auto;
+        }
+        .period .timeline-content {
+          padding: 40px 0 70px;
+        }
+        .period .timeline-title {
+          margin: 0;
+        }
+
+        @media (min-width: 768px) {
+          .timeline-split .timeline {
+            display: table;
+          }
+          .timeline-split .timeline-item {
+            display: table-row;
+            padding: 0;
+          }
+          .timeline-split .timeline-info,
+          .timeline-split .timeline-marker,
+          .timeline-split .timeline-content,
+          .timeline-split .period .timeline-info {
+            display: table-cell;
+            vertical-align: top;
+          }
+          .timeline-split .timeline-marker {
+            position: relative;
+          }
+          .timeline-split .timeline-content {
+            padding-left: 30px;
+          }
+          .timeline-split .timeline-info {
+            padding-right: 30px;
+          }
+          .timeline-split .period .timeline-title {
+            position: relative;
+            left: -45px;
+          }
+        }
+    </style>
+  </head>
+  <body>
+    <div class="container-fluid">
+      <div class="header">
+        <p><a href="/">&#x2190; Metamorphium</a></p>
+        <h1>Neil's Life</h1>
+        <p>This is a timeline of my life, as of January 1, 2020. It was inspired by <a href="https://harperreed.com" target="_blank">Harper Reed</a>.</p>
+      </div>
+      <ul class="timeline timeline-split">
+          <li class="timeline-item inactive">
+              <div class="timeline-info">
+                  <span>Today</span>
+              </div>
+              <div class="timeline-marker"></div>
+              <div class="timeline-content">
+                  <h3 class="timeline-title">¯\_(ツ)_/¯</h3>
+              </div>
+          </li>
+          <li class="timeline-item period">
+              <div class="timeline-info"></div>
+              <div class="timeline-marker"></div>
+              <div class="timeline-content">
+                  <h2 class="timeline-title">2010's</h2>
+              </div>
+          </li>
+          <li class="timeline-item">
+              <div class="timeline-info">
+                  <span>May 2019</span>
+              </div>
+              <div class="timeline-marker"></div>
+              <div class="timeline-content">
+                  <h3 class="timeline-title">👨‍💻 Neil founds <a href="https://hiome.com">Hiome</a>.</h3>
+              </div>
+          </li>
+          <li class="timeline-item">
+              <div class="timeline-info">
+                  <span>January 2018</span>
+              </div>
+              <div class="timeline-marker"></div>
+              <div class="timeline-content">
+                  <h3 class="timeline-title">🧠 Neil builds an AI to manage his home for him.</h3>
+              </div>
+          </li>
+          <li class="timeline-item">
+              <div class="timeline-info">
+                  <span>September 2017</span>
+              </div>
+              <div class="timeline-marker"></div>
+              <div class="timeline-content">
+                  <h3 class="timeline-title">🎓 Neil earns a nanodegree in machine learning from Udacity for fun.</h3>
+              </div>
+          </li>
+          <li class="timeline-item">
+              <div class="timeline-info">
+                  <span>October 2016</span>
+              </div>
+              <div class="timeline-marker"></div>
+              <div class="timeline-content">
+                  <h3 class="timeline-title">💁‍♀️ Neil meets Kat. His whole life is changed.</h3>
+              </div>
+          </li>
+          <li class="timeline-item">
+              <div class="timeline-info">
+                  <span>November 2015</span>
+              </div>
+              <div class="timeline-marker"></div>
+              <div class="timeline-content">
+                  <h3 class="timeline-title">🏠 Neil buys his first home.</h3>
+              </div>
+          </li>
+          <li class="timeline-item">
+              <div class="timeline-info">
+                  <span>August 2014</span>
+              </div>
+              <div class="timeline-marker"></div>
+              <div class="timeline-content">
+                  <h3 class="timeline-title">👨‍💻 Neil builds a large art installation that reacts to its environment for Cisco's Internet of Things conference.</h3>
+              </div>
+          </li>
+          <li class="timeline-item">
+              <div class="timeline-info">
+                  <span>June 2013</span>
+              </div>
+              <div class="timeline-marker"></div>
+              <div class="timeline-content">
+                  <h3 class="timeline-title">💀 Tabule shuts down, the team is acqui-hired.</h3>
+              </div>
+          </li>
+          <li class="timeline-item">
+              <div class="timeline-info">
+                  <span>July 2012</span>
+              </div>
+              <div class="timeline-marker"></div>
+              <div class="timeline-content">
+                  <h3 class="timeline-title">🎙 Neil does a press conference with <a href="https://en.wikipedia.org/wiki/Rahm_Emanuel">Rahm Emanuel</a> about Tabule and Chicago tech, followed by multiple radio, tv, and newspaper interviews over the next year.</h3>
+              </div>
+          </li>
+          <li class="timeline-item">
+              <div class="timeline-info">
+                  <span>June 2012</span>
+              </div>
+              <div class="timeline-marker"></div>
+              <div class="timeline-content">
+                  <h3 class="timeline-title">👨‍💻 Neil cofounds Tabule, a smart student planner powered by AI. It has over 4 stars in the App Store.</h3>
+              </div>
+          </li>
+          <li class="timeline-item">
+              <div class="timeline-info">
+                  <span>May 2012</span>
+              </div>
+              <div class="timeline-marker"></div>
+              <div class="timeline-content">
+                  <h3 class="timeline-title">🎓 Neil graduates from Illinois Institute of Technology with degrees in Computer Science & Psychology, a minor in Entrepreneurship, and a specialization in Artificial Intelligence.</h3>
+              </div>
+          </li>
+          <li class="timeline-item">
+              <div class="timeline-info">
+                  <span>October 2010</span>
+              </div>
+              <div class="timeline-marker"></div>
+              <div class="timeline-content">
+                  <h3 class="timeline-title">🎂 Neil turns 20.</h3>
+              </div>
+          </li>
+          <li class="timeline-item">
+              <div class="timeline-info">
+                  <span>June 2010</span>
+              </div>
+              <div class="timeline-marker"></div>
+              <div class="timeline-content">
+                  <h3 class="timeline-title">✈️ Neil spends a summer in Paris for a study abroad program.</h3>
+              </div>
+          </li>
+          <li class="timeline-item period">
+              <div class="timeline-info"></div>
+              <div class="timeline-marker"></div>
+              <div class="timeline-content">
+                  <h2 class="timeline-title">2000's</h2>
+              </div>
+          </li>
+          <li class="timeline-item">
+              <div class="timeline-info">
+                  <span>August 2008</span>
+              </div>
+              <div class="timeline-marker"></div>
+              <div class="timeline-content">
+                  <h3 class="timeline-title">✈️ Neil moves to Chicago.</h3>
+                  <p></p>
+              </div>
+          </li>
+          <li class="timeline-item">
+              <div class="timeline-info">
+                  <span>August 2007</span>
+              </div>
+              <div class="timeline-marker"></div>
+              <div class="timeline-content">
+                  <h3 class="timeline-title">📱 Neil gets the first iPhone. People make fun of him for spending $600 on a phone.</h3>
+                  <p></p>
+              </div>
+          </li>
+          <li class="timeline-item">
+              <div class="timeline-info">
+                  <span>May 2007</span>
+              </div>
+              <div class="timeline-marker"></div>
+              <div class="timeline-content">
+                  <h3 class="timeline-title">👨‍💻 Neil gets his first summer job as developer #1 at a sports social network. He works out of a literal garage.</h3>
+                  <p></p>
+              </div>
+          </li>
+          <li class="timeline-item">
+              <div class="timeline-info">
+                  <span>September 2006</span>
+              </div>
+              <div class="timeline-marker"></div>
+              <div class="timeline-content">
+                  <h3 class="timeline-title">👨‍💻 Neil cofounds Metamorphium Design, a profitable web design business.</h3>
+              </div>
+          </li>
+          <li class="timeline-item">
+              <div class="timeline-info">
+                  <span>December 2005</span>
+              </div>
+              <div class="timeline-marker"></div>
+              <div class="timeline-content">
+                  <h3 class="timeline-title">👨‍💻 Neil builds his own NoSQL CMS to power Amalgam Magazine, an online literary magazine he cofounded.</h3>
+              </div>
+          </li>
+          <li class="timeline-item">
+              <div class="timeline-info">
+                  <span>August 2004</span>
+              </div>
+              <div class="timeline-marker"></div>
+              <div class="timeline-content">
+                  <h3 class="timeline-title">🎓 Neil starts high school.</h3>
+              </div>
+          </li>
+          <li class="timeline-item">
+              <div class="timeline-info">
+                  <span>July 2004</span>
+              </div>
+              <div class="timeline-marker"></div>
+              <div class="timeline-content">
+                  <h3 class="timeline-title">👨‍💻 Neil launches WebScope.tv, a video sharing platform for his friends because YouTube doesn't exist yet.</h3>
+              </div>
+          </li>
+          <li class="timeline-item">
+              <div class="timeline-info">
+                  <span>August 2002</span>
+              </div>
+              <div class="timeline-marker"></div>
+              <div class="timeline-content">
+                  <h3 class="timeline-title">🧮 Neil gets a TI-83 Plus Silver Edition calculator that he uses to program games in BASIC during math class.</h3>
+              </div>
+          </li>
+          <li class="timeline-item">
+              <div class="timeline-info">
+                  <span>August 2002</span>
+              </div>
+              <div class="timeline-marker"></div>
+              <div class="timeline-content">
+                  <h3 class="timeline-title">🎓 Neil starts middle school.</h3>
+              </div>
+          </li>
+          <li class="timeline-item">
+              <div class="timeline-info">
+                  <span>October 2000</span>
+              </div>
+              <div class="timeline-marker"></div>
+              <div class="timeline-content">
+                  <h3 class="timeline-title">🎂 Neil turns 10. It's a new millennium.</h3>
+              </div>
+          </li>
+          <li class="timeline-item period">
+              <div class="timeline-info"></div>
+              <div class="timeline-marker"></div>
+              <div class="timeline-content">
+                  <h2 class="timeline-title">1990's</h2>
+              </div>
+          </li>
+          <li class="timeline-item">
+              <div class="timeline-info">
+                  <span>June 1999</span>
+              </div>
+              <div class="timeline-marker"></div>
+              <div class="timeline-content">
+                  <h3 class="timeline-title">👨‍💻 Neil gets DSL at home and starts playing with CSS & JavaScript. And Napster.</h3>
+              </div>
+          </li>
+          <li class="timeline-item">
+              <div class="timeline-info">
+                  <span>March 1999</span>
+              </div>
+              <div class="timeline-marker"></div>
+              <div class="timeline-content">
+                  <h3 class="timeline-title">🕶 The Matrix is released, Neil has to start clarifying his name isn't Neo for the rest of the decade.</h3>
+              </div>
+          </li>
+          <li class="timeline-item">
+              <div class="timeline-info">
+                  <span>July 1998</span>
+              </div>
+              <div class="timeline-marker"></div>
+              <div class="timeline-content">
+                  <h3 class="timeline-title">🎬 Neil directs his first action movie using a VHS camcorder and PowerMac 8500.</h3>
+              </div>
+          </li>
+          <li class="timeline-item">
+              <div class="timeline-info">
+                  <span>December 1997</span>
+              </div>
+              <div class="timeline-marker"></div>
+              <div class="timeline-content">
+                  <h3 class="timeline-title">🏠 Neil moves to his home in south San Jose on Christmas.</h3>
+              </div>
+          </li>
+          <li class="timeline-item">
+              <div class="timeline-info">
+                  <span>August 1994</span>
+              </div>
+              <div class="timeline-marker"></div>
+              <div class="timeline-content">
+                  <h3 class="timeline-title">👶 Neil's sister, Nandini, is born.</h3>
+              </div>
+          </li>
+          <li class="timeline-item">
+              <div class="timeline-info">
+                  <span>December 1990</span>
+              </div>
+              <div class="timeline-marker"></div>
+              <div class="timeline-content">
+                  <h3 class="timeline-title">✈️ Neil moves to California.</h3>
+              </div>
+          </li>
+          <li class="timeline-item">
+              <div class="timeline-info">
+                  <span>October 1990</span>
+              </div>
+              <div class="timeline-marker"></div>
+              <div class="timeline-content">
+                  <h3 class="timeline-title">👶 Neil is born in Michigan.</h3>
+              </div>
+          </li>
+      </ul>
+    </div>
+  </body>
+</html>
