@@ -14,12 +14,12 @@ title: Metamorphium
 <div class="site">
 
 <div id="home">
-  <h1>Latest Blog Posts</h1>
+  <h1>Latest Posts</h1>
   <ul class="posts">
     {% for post in site.posts limit:10 %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
   
-  <a href="/all/">See all posts &nbsp;&#x2192;</a>
+  <a href="/all/">See all &nbsp;&#x2192;</a>
 </div>
