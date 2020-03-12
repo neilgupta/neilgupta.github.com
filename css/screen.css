@@ -390,6 +390,15 @@ img.photograph:hover {
   border: none;
 }
 
+cite {
+  padding-left: 20px;
+  color: #aaa;
+  font-style: italic;
+  font-weight: 300;
+  display: block;
+  margin-bottom: 50px;
+}
+
 #post blockquote, #markdown blockquote {
   padding-left: 15px;
   border-left: 4px solid #eee;
