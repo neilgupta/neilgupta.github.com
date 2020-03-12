@@ -4,9 +4,20 @@ layout: default
 
 <div id="post">
 <h1>{{ page.title }}</h1>
-<p class="meta">{{ page.date | date_to_string }} - {{ page.location }}</p>
 
 {{ content }}
 
+<p class="meta">Written on {{ page.date | date: '%B %d, %Y' }} in {{ page.location }}.</p>
+
 <p id="followme">Like this post? Follow <a href="http://twitter.com/neilgupta" title="Follow @neilgupta on Twitter">@neilgupta</a> or <a href="/atom.xml">subscribe via RSS</a> for more.</p>
+</div>
+
+<div class="footer">
+  <div class="contact">
+    <p>
+      <img src="/images/neil.jpeg" width="85" height="85" alt="Neil Gupta" />
+      <b>Neil Gupta</b> is the founder of <a href="https://www.hiome.com" target="_blank" title="Rethink what your home can do">Hiome</a>, where he is working to change how we use our homes. He loves talking about technology, cognitive psychology, and UX design. He grew up in the Bay Area but he hosts game nights and eats enchiladas in Chicago now. <a href="/">Learn more.</a>
+    </p>
+  </div>
+  <div class="clear">&nbsp;</div>
 </div>

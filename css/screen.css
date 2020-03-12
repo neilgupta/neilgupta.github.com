@@ -36,6 +36,7 @@ h2 {
   border-top: 1px solid #e6e6e6;
   padding-top: 25px;
   text-align: center;
+  line-height: 1.5em;
 }
 
 p {
@@ -51,6 +52,16 @@ a {
 
 a:hover {
   color: red;
+}
+
+a:not([href*='metamorphium.com']):not([href^='#']):not([href^='/']):after {
+  font-size: 0.5rem;
+  font-weight: 500;
+  line-height: 0.6;
+  margin-left: 1px;
+  content: '↗';
+  vertical-align: text-top;
+  opacity: 0.5;
 }
 
 table {
@@ -190,6 +201,7 @@ ul.posts span {
 
 .site .meta {
   color: #aaa;
+  font-size: 80%;
 }
 
 #followme {
@@ -225,6 +237,10 @@ ul.posts span {
 /* Portfolio
 /*
 /*****************************************************************************/
+
+#portfolio {
+  margin-top: 80px;
+}
 
 #portfolio, p.centered {
   text-align: center;
