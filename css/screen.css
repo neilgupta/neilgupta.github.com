@@ -32,8 +32,6 @@ h1 {
 h2 {
   font-size: 22px;
   margin-top: 40px;
-  font-weight: normal;
-  border-top: 1px solid #e6e6e6;
   padding-top: 25px;
   text-align: center;
   line-height: 1.5em;
@@ -324,10 +322,17 @@ p#footer {
 }
 
 #post h1, #home h1, #post h2, #home h2 {
-  font-size: 100%;
   text-align: left;
   border: 0;
   padding: 0;
+}
+
+#post h1, #home h1 {
+  font-size: 130%;
+}
+
+#post h2, #home h2 {
+  font-size: 120%;
 }
 
 .footnotes {
