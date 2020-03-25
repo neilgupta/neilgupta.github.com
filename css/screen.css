@@ -136,6 +136,31 @@ ul.posts span {
   font-size: 80%;
 }
 
+ul.games {
+  list-style-type: none;
+  margin-bottom: 1em;
+}
+
+ul.games li {
+  line-height: 2.5em;
+  width: 100%;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow:ellipsis;
+}
+
+ul.games li img {
+  vertical-align: middle;
+  margin-right: 5px;
+  height: 20px;
+  width: 20px;
+}
+
+ul.games span {
+  color: #aaa;
+  font-size: 80%;
+}
+
 /*****************************************************************************/
 /*
 /* Site

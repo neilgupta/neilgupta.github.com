@@ -1,0 +1,19 @@
+---
+layout: default
+title: Games
+---
+
+<br/>
+<div id="home">
+  <h1>My Games</h1>
+  <ul class="games">
+    <p>I currently have <a href="https://boardgamegeek.com/collection/user/Bubloo" title="View this list on BoardGameGeek">{{page.total_games}} board games</a> on my bookshelf.</p>
+    {% for game in page.games %}
+      <li>
+        <img src="{{ game.thumbnail[0] }}" alt="{{ game.name[0].content }}" />
+        <a href="https://boardgamegeek.com/game/{{ game.objectid }}" title="View {{ game.name[0].content }} on BoardGameGeek">{{ game.name[0].content }}</a>
+        <span>({{ game.yearpublished[0] }})</span>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
