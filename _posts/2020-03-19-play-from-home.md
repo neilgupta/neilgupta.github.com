@@ -76,3 +76,5 @@ You can [read the full rules here](https://www.backstabbr.com/how-to-play) and [
 I'll keep adding tips to this page as I think of more. If you've found other things that work, [let me know](mailto:neil@metamorphium.com)! We're in this together. Remote work can be hard if you aren't pepared for it, and it's extra hard when you have no choice, but I promise it can also be wonderful.
 
 Stay safe and have fun!
+
+**Edit 4/1/2020:** Someone just shared [netgames.io](https://netgames.io/games/) which has a great collection of board games and perfect interface for remote play. I wish I'd known about this one sooner. Currently they have One Night Ultimate Werewolf, Codenames, Secret Hitler, Spyfall, Love Letter, and Avalon. Secret Hitler and Love Letter are two of my favorite games overall, so I highly recommend them!
