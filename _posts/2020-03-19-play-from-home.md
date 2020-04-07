@@ -78,3 +78,5 @@ I'll keep adding tips to this page as I think of more. If you've found other thi
 Stay safe and have fun!
 
 **Edit 4/1/2020:** Someone just shared [netgames.io](https://netgames.io/games/) which has a great collection of board games and perfect interface for remote play. I wish I'd known about this one sooner. Currently they have One Night Ultimate Werewolf, Codenames, Secret Hitler, Spyfall, Love Letter, and Avalon. Secret Hitler and Love Letter are two of my favorite games overall, so I highly recommend them!
+
+**Edit 4/7/2020:** Netgames.io was struggling over the weekend to keep up with the traffic, so we tried [secrethitler.io](https://secrethitler.io) instead for playing Secret Hitler. It works, but there is a learning curve to the user interface. You might need to play a game just to learn how to use it, which is unfortunate. We also played Avalon at [proavalon.com](https://www.proavalon.com), which also works well and has a similar learning curve.
