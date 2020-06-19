@@ -3,6 +3,7 @@ layout: post
 title: Your Startup Is Spam
 tags: development
 location: Chicago
+starred: true
 ---
 
 If you've ever built something yourself or worked on a startup, you know that your product is like your baby. You are acutely aware of each flaw, but if somebody else insults it, it's personal.

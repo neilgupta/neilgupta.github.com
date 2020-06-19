@@ -3,6 +3,7 @@ layout: post
 title: Dear Apple, DUNS is a scam, but you already know that.
 tags: development
 location: Chicago
+starred: true
 ---
 
 > **What is a D-U-N-S Number?**
