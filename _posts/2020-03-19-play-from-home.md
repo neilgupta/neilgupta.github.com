@@ -10,7 +10,7 @@ Welcome to 2020. We're in a strange new world of social distancing and shelter-i
 
 This one is more general culture building advice that applies in all situations, but is especially important right now... relax on the meeting agenda. Spend the first 10-15 minutes of every call just chatting about how people are feeling, things to look forward to (_have you watched Hunters yet on Amazon Prime!?_), etc. There's no water cooler to connect over and people won't start video calls just to chat, so these 10 minutes are absolutely critical for your team. Incidentally, letting teams go on tangents and deviate from a strict agenda also creates higher psychological safety and [higher performing teams](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html).
 
-Slack is also helpful for facilitating this kind of chit chat, but if you're not used to working remotely, this can feel awkward. Don't expect too much activity here at first, but you can encourage it by proactively sharing fun links throughout the day to set the mood. 
+Slack or Basecamp is also helpful for facilitating this kind of chit chat, but if you're not used to working remotely, this can feel awkward. Don't expect too much activity at first, but you can encourage it by proactively sharing fun links throughout the day to set the mood. 
 
 ![Working From Home Like a Jedi](/post_files/games/jedi.jpg)
 
@@ -18,7 +18,7 @@ Slack is also helpful for facilitating this kind of chit chat, but if you're not
 
 Along the same lines, it can be uncomfortable to ping your teammates on Slack when you're not used to doing it, but don't feel bad about it! I promise you're not disrupting them any more than if you walked up to their desk. Ask to hop on calls more than you think is necessary. The biggest feedback I got from my team is that they wished we spent more time in video calls for more face time.
 
-[Slack](https://slack.com), [Zoom](https://zoom.us), and [Tandem](https://tandem.chat) make it super easy to collaborate on work as if you're in the same room. I like how Slack makes it possible for anyone to drop in on an active call if you want. I haven't tried Tandem, but it looks like a promising way to recreate some of the office vibe.
+[Slack](https://slack.com), [Zoom](https://zoom.us), [Basecamp](https://basecamp.com), and [Tandem](https://tandem.chat) make it super easy to collaborate on work as if you're in the same room. I like how Slack makes it possible for anyone to drop in on an active call, much like a water cooler. Basecamp is great for encouraging discussion without the stress of interrupting someone in real-time. I haven't tried Tandem, but it looks like a promising way to recreate some of the spontaneous office vibe. The right tool for you will depend on your team's culture and preferences.
 
 ## 🎲 Play Games!
 
