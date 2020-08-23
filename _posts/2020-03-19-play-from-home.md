@@ -73,7 +73,7 @@ I put this one on the list because I love playing it remotely, but do **not** us
 
 You can [read the full rules here](https://www.backstabbr.com/how-to-play) and [play an online version of the game here](https://www.backstabbr.com) for free. It works best with exactly 7 players, but can technically be played with 3-7 people.
 
-I'll keep adding tips to this page as I think of more. If you've found other things that work, [let me know](mailto:neil@metamorphium.com)! We're in this together. Remote work can be hard if you aren't pepared for it, and it's extra hard when you have no choice, but I promise it can also be wonderful.
+I'll keep adding tips to this page as I think of more. If you've found other things that work, [let me know](mailto:hey@neil.gg)! We're in this together. Remote work can be hard if you aren't pepared for it, and it's extra hard when you have no choice, but I promise it can also be wonderful.
 
 Stay safe and have fun!
 

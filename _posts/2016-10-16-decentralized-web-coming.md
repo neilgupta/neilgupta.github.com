@@ -10,7 +10,7 @@ There's been a lot of talk recently about making a decentralized web that is mor
 
 # Privacy
 
-Everybody is much more aware of privacy and [data control](http://blog.metamorphium.com/2016/10/14/facebook-privacy/) issues these days. We've witnessed what governments, even in "free" countries like the US, are capable of. We are generating more data than ever and are at the precipice of creating an avalanche of private data: biometrics, health sensors, location, habits, smart home control, etc. Apple has repeatedly been differentiating themselves from the competition with a focus on privacy that continues to highlight this problem in the public eye. 
+Everybody is much more aware of privacy and [data control](/2016/10/14/facebook-privacy/) issues these days. We've witnessed what governments, even in "free" countries like the US, are capable of. We are generating more data than ever and are at the precipice of creating an avalanche of private data: biometrics, health sensors, location, habits, smart home control, etc. Apple has repeatedly been differentiating themselves from the competition with a focus on privacy that continues to highlight this problem in the public eye. 
 
 This means, socially, we are ready for this change and will be more welcoming of it than before. 
 

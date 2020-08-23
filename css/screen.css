@@ -52,7 +52,7 @@ a:hover {
   color: red;
 }
 
-a:not([href*='metamorphium.com']):not([href^='#']):not([href^='/']):after {
+a:not([href*='neil.gg']):not([href^='#']):not([href^='/']):after {
   font-size: 0.5rem;
   font-weight: 500;
   line-height: 0.6;

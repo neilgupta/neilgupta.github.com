@@ -1,3 +1,3 @@
-This is the data for **[blog.metamorphium.com](http://blog.metamorphium.com)**. It is powered by [Jekyll](http://github.com/mojombo/jekyll) and hosted on [GitHub Pages](http://pages.github.com).
+This is the data for **[neil.gg](https://neil.gg)**.
 
 Copyright Neil Gupta. All rights reserved.

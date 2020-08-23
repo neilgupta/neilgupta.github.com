@@ -42,6 +42,6 @@ We know that everything is moving towards augmented reality, and nowhere does th
 
 I'm finally releasing these documents and telling this story because in the past few weeks, we have decided to completely dedicate ourselves to our current project, Tabule. Just as it's important to never give up on an idea you believe in, it's also important to recognize when you are not capable of making an idea a success, at which point you should refocus on something that harnesses your strengths. That means that we will not be following up on Odorno, but I sincerely hope that somebody else will. I finally got a chance to write up this post, and hopefully somebody will stumble across it and find it inspirational. Given the large interest in this field and the size of the industry, somebody with the requisite know-how might just be able to turn this into a success where we couldn't.
 
-If somebody does find this idea interesting and wishes to take it up, feel free to email me at neil@metamorphium.com if you want to see our presentation slides or other details on the idea. 
+If somebody does find this idea interesting and wishes to take it up, feel free to email me at hey@neil.gg if you want to see our presentation slides or other details on the idea. 
 
 **[Read our product summary](/post_files/odorno/summary.pdf)**.

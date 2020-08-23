@@ -28,4 +28,4 @@ The action items should integrate with your preferred todo app, so that you can 
 
 Also, you would be able to add agenda or action items via Slack, of course.
 
-Does this tool already exist? I'd love to [know about it](mailto:neil@metamorphium.com)!
+Does this tool already exist? I'd love to [know about it](mailto:hey@neil.gg)!
