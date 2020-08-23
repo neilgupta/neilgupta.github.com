@@ -37,7 +37,7 @@ Your design step involves understanding the actual problem and how it can be sol
 
 By stage 4, you're outputting high quality, re-useable, well documented code that your entire organization is benefitting from. What's next? Finding your place in the world. How do you make the world a better place? 
 
-![We're making the world a better place... through scalable fault-tolerant distributed databases with ACID transactions.](http://heineventures.com/wp-content/uploads/2015/01/make-world-better-place-silicon-valley.gif)
+![We're making the world a better place... through scalable fault-tolerant distributed databases with ACID transactions.](https://heineventures.com/wp-content/uploads/2015/01/make-world-better-place-silicon-valley.gif)
 
 <p class="caption">No, not like that.</p>
 

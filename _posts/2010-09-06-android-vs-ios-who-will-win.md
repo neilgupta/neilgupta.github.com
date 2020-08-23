@@ -8,7 +8,7 @@ location: Chicago
 <p>via <a href="http://techcrunch.com/2010/09/05/apple-android/">TechCrunch</a></p>
 <blockquote>
 <div>
-<p><img title="22" src="http://tctechcrunch.files.wordpress.com/2010/09/223.png?w=300&amp;h=253" alt="" width="300" height="253" /> <br /><br /></p>
+<p><img title="22" src="https://tctechcrunch.files.wordpress.com/2010/09/223.png?w=300&amp;h=253" alt="" width="300" height="253" /> <br /><br /></p>
 <blockquote>
 <p>Android has succeeded despite Google. In fact it&rsquo;s safe to say that Android is successful for one primary reason. The iPhone is only available on AT&amp;T. If the iPhone was on Verizon a year ago. Android would be no where near as popular.</p>
 </blockquote>
