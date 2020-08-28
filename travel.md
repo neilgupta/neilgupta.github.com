@@ -85,4 +85,4 @@ areasSettings : {
 
 I have visited The Bahamas, Belgium, Canada, France, <a href="/books/iceland">Iceland</a>, India, <a href="/books/italy">Italy</a>, Mexico, United Kingdom, and live in the United States.
 
-Between 2017 and 2019, I traveled 99,570 miles across 25 trips in 153 days. That's enough to circle the world 4 times! Looking forward to being able to travel again... <span role="img" aria-label="germ">🦠</span>
+Between 2017 and 2019, I traveled 99,570 miles across 25 trips in 153 days. That's enough to circle the world 4 times. Looking forward to being able to travel again... <span role="img" aria-label="germ">🦠</span>
