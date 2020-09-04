@@ -1,6 +1,6 @@
 ---
 layout: post_base
-title: Neil's Favorite Quotes
+title: Favorite Quotes
 ---
 
 These are random quotes I've enjoyed over the years, in no particular order.

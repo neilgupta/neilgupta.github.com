@@ -1,6 +1,6 @@
 ---
 layout: post_base
-title: Neil's Travels
+title: Travel Map
 ---
 
 <!-- https://www.amcharts.com/visited_countries/#BE,FR,IS,IT,GB,VA,BS,CA,US,IN -->
