@@ -7,7 +7,7 @@ This is a list of major projects I've built or worked on, as of October 2020.
 
 ## [Guilded](https://www.guilded.gg)
 
-Guilded is the chat tool for gamers. It brings the best of Basecamp and Discord together for the ultimate team communication and planning tool. I joined the team as engineer #7.
+Guilded is the chat tool for gamers that makes Discord feel like Skype.
 
 ## [Research Explained](https://researchexplained.org)
 
