@@ -9,7 +9,7 @@ This is a list of major projects I've built or worked on, as of October 2020.
 
 Guilded is the chat tool for gamers that makes Discord feel like Skype.
 
-## [Research Explained](https://researchexplained.org)
+## [Research Explained](https://researchexplained.neil.gg)
 
 Research Explained creates visual abstracts to summarize complex research papers into a concise and accessible graphical design. Our goal was to make it easy to understand what scientists _actually_ did in their pre-print COVID studies, rather than just relying on sensationalized and usually incorrect headlines. I still think all research papers should include a visual abstract with a consistent design for easily parsing gist of the paper.
 
